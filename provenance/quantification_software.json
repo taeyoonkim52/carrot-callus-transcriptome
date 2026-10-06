@@ -1,0 +1,9 @@
+{
+  "kallisto": "kallisto, version 0.50.1",
+  "executable_sha256": "6ac75fdebe090013719e5deff4cfc27c8741bb42093b96f228beb5e231d20e2a",
+  "index_sha256": "d76c395e0573c853c47bc055a2ae32148a6d5547dd936fb704b1150ff4c367c3",
+  "reference_sha256": "5f0f4d108af08055b471fe3776542ce1c770b99569a3d10310ad7b178bf14cd0",
+  "production_orientation": "unstranded",
+  "threads": 8,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]"
+}

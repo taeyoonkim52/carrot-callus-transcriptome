@@ -1,0 +1,62 @@
+{
+  "run": "SRR36683244",
+  "sample": "C815_20d_3",
+  "expected_spots": 30104493,
+  "archive_md5": "f3bb9714fdf2d446c7459ce26a3e184b",
+  "archive_sha256": "6101d04581ef024f9fb60df285385d18e104a5b4e29e3f37fa0febae567c00a5",
+  "software": "SRA Toolkit fastq-dump 3.2.1",
+  "partition_policy": "Four contiguous non-overlapping exhaustive spot ranges; concatenate gzip members in range order",
+  "completed_utc": "2026-10-05T06:26:53.016898+00:00",
+  "archive_url": "https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36683244/SRR36683244",
+  "archive_bytes": 5721440007,
+  "original_fastq_access": "Original nested S3 source returns HTTP403; ENA filereport HTTP500",
+  "original_fastq_cloud_locations": [
+    {
+      "filename": "C815_20d_3_R1.fq.gz",
+      "url": "s3://sra-pub-src-14/SRR36683244/C815_20d_3_R1.fq.gz.1",
+      "repository_md5": "9223b2eb7d123d3256cf5248043e6538",
+      "repository_bytes": 3371668357
+    },
+    {
+      "filename": "C815_20d_3_R2.fq.gz",
+      "url": "s3://sra-pub-src-14/SRR36683244/C815_20d_3_R2.fq.gz.1",
+      "repository_md5": "01ab0b46a7b08b4e40d42f7f2af3f081",
+      "repository_bytes": 3857300954
+    }
+  ],
+  "normalization": "Full-quality SRA Normalized archive, not quality-binned SRA Lite",
+  "fastq_outputs": [
+    {
+      "filename": "C815_20d_3_R1.fq.gz",
+      "bytes": 3405854515,
+      "md5": "2041df005d95c77030c46407f601e063",
+      "sha256": "c1e7ba312f6fd0df68d12d4edd722ec51f2f508cdffebfd0b029e48360ddb537"
+    },
+    {
+      "filename": "C815_20d_3_R2.fq.gz",
+      "bytes": 3905046856,
+      "md5": "e6952c16a9a75bc2b768103b904bb51d",
+      "sha256": "4d8b5b644ac826c1b90ad37acd470c136b89b858fd170e81215d8add911e6d78"
+    }
+  ],
+  "checksum_scope": "46 original FASTQs use repository MD5; two derived FASTQs are locally hashed from a repository-MD5-verified and VDB-validated archive",
+  "tool_archive_sha256": "c3f518a848e51420c389bf806b7d366c94189a852e7198520ce580ef6fc3d579",
+  "spot_ranges": [
+    [
+      1,
+      7526123
+    ],
+    [
+      7526124,
+      15052246
+    ],
+    [
+      15052247,
+      22578369
+    ],
+    [
+      22578370,
+      30104493
+    ]
+  ]
+}

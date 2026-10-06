@@ -1,0 +1,12 @@
+source	destination	changes
+scripts/dedif_acquire.py	scripts/dedif_acquire.py	No logic edit; UTF-8/newline normalization only.
+scripts/dedif_reference_audit.py	scripts/dedif_reference_audit.py	No logic edit; UTF-8/newline normalization only.
+scripts/dedif_prepare_fastqc.py	scripts/dedif_prepare_fastqc.py	No logic edit; UTF-8/newline normalization only.
+scripts/dedif_fastqc.py	scripts/dedif_fastqc.py	No logic edit; UTF-8/newline normalization only.
+scripts/dedif_quantify.py	scripts/dedif_quantify.py	Removed private executable source path; explicit local tool installation required. Quantification parameters and all read/pilot logic unchanged.
+scripts/dedif_sra_fallback.py	scripts/dedif_sra_fallback.py	No logic edit; UTF-8/newline normalization only.
+scripts/dedif_technical_gate.py	scripts/dedif_technical_gate.py	Unicode ID representation and checkpoint filename align with the retained downstream input; numerical array computations untouched. Removed unrelated prior-question metadata.
+scripts/dedif_primary_analysis.py	scripts/dedif_primary_analysis.py	Removed superseded plotting tail and unpublished alternate-core-threshold summary; retained primary model, universe, coefficients, tests, core and predefined A/B/C criteria.
+scripts/arch_gate.py	scripts/interaction_architecture.py	Removed private-history assertion, tracked-file protection and internal plan requirement; omitted post-result administrative decision/report tail. Numerical functions/omission/bootstrap blocks unchanged; publishes existing topology support values.
+scripts/arch_finalize.py	scripts/functional_annotation.py	Extracted unchanged omission-detail and GO computation blocks; removed internal decision prerequisite, superseded figures and private report/validation tail.
+publication/scripts/render_publication.py	scripts/render_figures.py	Adjusted root/layout and isolated regenerated figure destinations; removed internal caption-summary writeout. Plotting code, values, scales and parameters unchanged.

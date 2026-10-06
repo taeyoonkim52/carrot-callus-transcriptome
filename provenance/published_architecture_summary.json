@@ -1,0 +1,11 @@
+{
+  "pattern": "one_outlier:Ws",
+  "pattern_bootstrap_support": 0.986,
+  "pattern_dish_omission_support": 1.0,
+  "core_size": 968,
+  "robust_core_genes": 800,
+  "robust_core_fraction": 0.8264462809917356,
+  "median_pearson": 0.33256433237002797,
+  "lowest_pearson": -0.18065849243749,
+  "highest_pearson": 0.6139124888976065
+}

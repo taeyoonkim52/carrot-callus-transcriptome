@@ -1,0 +1,9 @@
+{
+  "java_download_metadata_url": "https://api.github.com/repos/adoptium/temurin21-binaries/releases/tags/jdk-21.0.8%2B9",
+  "java_archive_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip",
+  "java_archive_sha256": "238d74ec4ec9422d416fa98805ba375eecd8bc8f971bd0c61a21051a4fe42db8",
+  "java_version": "openjdk version \"21.0.8\" 2025-07-15 LTS\nOpenJDK Runtime Environment Temurin-21.0.8+9 (build 21.0.8+9-LTS)\nOpenJDK 64-Bit Server VM Temurin-21.0.8+9 (build 21.0.8+9-LTS, mixed mode, sharing)\n",
+  "fastqc_url": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.12.1.zip",
+  "fastqc_archive_sha256": "5f4dba8780231a25a6b8e11ab2c238601920c9704caa5458d9de559575d58aa7",
+  "fastqc_version": "FastQC v0.12.1\n"
+}

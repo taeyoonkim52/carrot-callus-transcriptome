@@ -1,0 +1,8 @@
+{
+  "url": "https://raw.githubusercontent.com/geneontology/go-ontology/f3f74a0b938243ec14d0318de654c5b37ac4b224/src/ontology/go-edit.obo",
+  "commit": "f3f74a0b938243ec14d0318de654c5b37ac4b224",
+  "commit_date": "2026-10-01T13:09:03Z",
+  "bytes": 35387410,
+  "sha256": "ab6d2b1289bf605432816d36a042fe131fcddc1d63cd0ed956d608940620ce24",
+  "source": "Gene Ontology Consortium official repository; go-basic download HTTP403; use is_a and part_of graph only, excluding obsolete terms"
+}

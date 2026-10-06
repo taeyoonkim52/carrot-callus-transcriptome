@@ -1,0 +1,10 @@
+{
+  "annotated_background": 18409,
+  "unannotated_testable": 6552,
+  "unresolved_annotation_records": 1859,
+  "reference_GAF_sha256": "960fffa0e4b7236b667c95949d11f2d035119130638ac23f9f97dbaaa3eaa536",
+  "ontology_sha256": "ab6d2b1289bf605432816d36a042fe131fcddc1d63cd0ed956d608940620ce24",
+  "tests": 36,
+  "background": "GO-annotated genes within frozen expressed universe; no annotation treated as missing, not negative",
+  "limitations": "Electronic/homology annotation; zero-category genes cannot establish absence of biology; broad categories are not mechanistic pathways"
+}

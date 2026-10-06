@@ -1,0 +1,25 @@
+query	category	term	root_name	selection	direction	query_all_genes	query_annotated_genes	expressed_universe	annotated_background	category_background	gene_count	pvalue	fold_enrichment	zero_annotated_background	FDR_36_predefined_tests
+core_up	cell_cycle	GO:0007049	cell cycle	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	38	0	1.0	0.0	False	1.0
+core_up	cell_division	GO:0051301	cell division	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	35	1	0.48257614679058614	1.5334443981674302	False	1.0
+core_up	chromatin_organization	GO:0006325	chromatin organization	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	289	10	0.045037171114436676	1.857112592936334	False	0.23161973715996004
+core_up	auxin_response	GO:0009733	response to auxin	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	47	0	1.0	0.0	False	1.0
+core_up	cytokinin_response	GO:0009735	response to cytokinin	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	0	0	1.0		True	1.0
+core_up	wound_response	GO:0009611	response to wounding	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	15	0	1.0	0.0	False	1.0
+core_up	stress_response	GO:0006950	response to stress	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	959	23	0.12949173207295708	1.2871978524763101	False	0.5179669282918283
+core_up	cell_wall_organization	GO:0071555	cell wall organization	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	62	0	1.0	0.0	False	1.0
+core_up	meristem_maintenance	GO:0010073	meristem maintenance	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	36	0	1.0	0.0	False	1.0
+core_up	developmental_process	GO:0032502	developmental process	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	212	5	0.36122176884925256	1.2658149513174541	False	1.0
+core_up	photosynthesis	GO:0015979	photosynthesis	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	99	1	0.8454146390122985	0.5421268074329298	False	1.0
+core_up	primary_metabolic_process	GO:0044238	primary metabolic process	PREDEFINED_CATEGORY	Day20 up in all four	441	343	24961	18409	3391	62	0.58818507598811	0.9812958844067601	False	1.0
+core_down	cell_cycle	GO:0007049	cell cycle	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	38	4	0.008893719333350088	4.868817773075906	False	0.0800434740001508
+core_down	cell_division	GO:0051301	cell division	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	35	2	0.1746746641809471	2.643072505384063	False	0.6288287910514095
+core_down	chromatin_organization	GO:0006325	chromatin organization	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	289	17	0.00019715855495261577	2.720809932013006	False	0.003548853989147084
+core_down	auxin_response	GO:0009733	response to auxin	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	47	2	0.27022401219754694	1.9682454827328129	False	0.8106720365926408
+core_down	cytokinin_response	GO:0009735	response to cytokinin	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	0	0	1.0		True	1.0
+core_down	wound_response	GO:0009611	response to wounding	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	15	0	1.0	0.0	False	1.0
+core_down	stress_response	GO:0006950	response to stress	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	959	22	0.41825293707976124	1.0610875021614852	False	1.0
+core_down	cell_wall_organization	GO:0071555	cell wall organization	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	62	0	1.0	0.0	False	1.0
+core_down	meristem_maintenance	GO:0010073	meristem maintenance	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	36	0	1.0	0.0	False	1.0
+core_down	developmental_process	GO:0032502	developmental process	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	212	1	0.9905405377529034	0.21817815492557124	False	1.0
+core_down	photosynthesis	GO:0015979	photosynthesis	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	99	0	1.0	0.0	False	1.0
+core_down	primary_metabolic_process	GO:0044238	primary metabolic process	PREDEFINED_CATEGORY	Day20 down in all four	527	398	24961	18409	3391	54	0.996289193637274	0.7365684215829961	False	1.0
