@@ -1,6 +1,9 @@
 cff-version: 1.2.0
 message: "Please cite this reproducibility archive and the original dataset when using these materials."
 type: software
+version: v1.0.0
+doi: 10.5281/zenodo.23180748
+repository-code: "https://github.com/taeyoonkim52/carrot-callus-transcriptome"
 title: "Carrot early callus transcriptome reproducibility code and derived data"
 authors:
   - family-names: Kim

@@ -1,5 +1,7 @@
 # Carrot early callus transcriptome reproducibility archive
 
+[![Zenodo version DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23180748-blue)](https://doi.org/10.5281/zenodo.23180748)
+
 Authors: Tae-Yoon Kim and Heesung Woo.
 
 Manuscript: “Genotype-specific transcriptional reprogramming and a shared response core during early carrot callus induction”.
@@ -39,8 +41,20 @@ DH1 v3.0 assembly GCF_001625215.2 with RefSeq annotation GCF_001625215.2-RS_2024
 
 Expected outputs include response similarity and dispersion tables, the fixed 24,961-gene universe, interaction tests/effect sizes, omission sensitivity, the 968-gene shared core, stability and predefined GO summaries, and five figures. Retained values are unchanged; this archive preparation executed no analysis.
 
-Citation: use CITATION.cff for the archive and separately credit the original PRJNA1398431 dataset/publication. No publication DOI or release DOI has been assigned here. The MIT License applies to original project analysis code only. Derived data are provided for scientific reproducibility and do not assert ownership of the original sequencing data. External RNA-seq, reference genome, annotation, ontology and other third-party resources retain their original terms/licenses. See LICENSE_SCOPE.md for scope.
+Citation: use CITATION.cff for the archive and separately credit the original PRJNA1398431 dataset/publication. The repository archive has the version DOI below; it is not a manuscript DOI. The MIT License applies to original project analysis code only. Derived data are provided for scientific reproducibility and do not assert ownership of the original sequencing data. External RNA-seq, reference genome, annotation, ontology and other third-party resources retain their original terms/licenses. See LICENSE_SCOPE.md for scope.
 
 Funding: The authors received no specific funding for this work.
 
 Competing interests: The authors declare no competing interests.
+
+## Archived release
+
+The analysis archive corresponding to version v1.0.0 is permanently preserved in Zenodo: [version DOI 10.5281/zenodo.23180748](https://doi.org/10.5281/zenodo.23180748). It identifies archived commit `98cf5a3551a007b82ee1ed42a47c526c5568f70d`.
+
+GitHub repository: [taeyoonkim52/carrot-callus-transcriptome](https://github.com/taeyoonkim52/carrot-callus-transcriptome). The concept DOI [10.5281/zenodo.23180747](https://doi.org/10.5281/zenodo.23180747) covers all versions; cite the version DOI to identify the exact archive supporting the manuscript.
+
+This DOI documentation was added after v1.0.0 and is not part of that archived snapshot. CITATION.cff describes the archived v1.0.0 version, not a new release of the subsequent metadata edits.
+
+Raw RNA-seq data are not redistributed in this repository.
+The original sequencing data are publicly available under
+NCBI BioProject PRJNA1398431.
