@@ -2,9 +2,11 @@
 
 Authors: Tae-Yoon Kim and Heesung Woo.
 
-Target manuscript: “Genotype-specific transcriptional reprogramming and a shared response core during early carrot callus induction”.
+Manuscript: “Genotype-specific transcriptional reprogramming and a shared response core during early carrot callus induction”.
 
-Publication: [MANUSCRIPT UNDER PREPARATION]. Contact: [TO BE FINALIZED BY PI]. This is a local public-release candidate awaiting author and license approval.
+Publication status: Manuscript in preparation for submission to Plant Cell Reports.
+
+Contact: Tae-Yoon Kim — kimtaey@oregonstate.edu.
 
 This study asks how shared transcriptional responses coexist with genotype-specific reprogramming across the Day0–Day20 callus-induction interval in C815, C819, C824 and Ws. The analysis supports the claim: “A stable shared transcriptional response core is embedded within broad genotype-specific reprogramming during the early carrot callus-induction interval.” It does not establish genotype-level regeneration competence or causal regeneration mechanisms.
 
@@ -22,7 +24,7 @@ See [the BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1398431), meta
 - results/supplementary_tables/: S1–S9.
 - figures/source_data/: retained figure inputs; future renders go to ignored figures/reproduced/.
 - environment/: recorded Python package pins and external tool versions.
-- provenance/: source-to-candidate hashes, edits, references, ontology and candidate checksums.
+- provenance/: source-to-archive hashes, edits, references, ontology and file checksums.
 - docs/: execution order and limitations.
 
 Scripts remain flat to preserve their original project-root resolution and cross-script calls. Stage mapping appears in docs/analysis_overview.md. Runtime work/ and outputs/ are ignored and contain no retained publication files.
@@ -37,4 +39,8 @@ DH1 v3.0 assembly GCF_001625215.2 with RefSeq annotation GCF_001625215.2-RS_2024
 
 Expected outputs include response similarity and dispersion tables, the fixed 24,961-gene universe, interaction tests/effect sizes, omission sensitivity, the 968-gene shared core, stability and predefined GO summaries, and five figures. Retained values are unchanged; this archive preparation executed no analysis.
 
-Citation: use CITATION.cff for the archive and separately credit the original PRJNA1398431 dataset/publication. No publication DOI or release DOI has been assigned here. LICENSE is an MIT candidate for project code/documentation only; LICENSE_REVIEW.md explains pending approval and separate data/resource rights. Do not interpret the candidate as blanket relicensing of all files.
+Citation: use CITATION.cff for the archive and separately credit the original PRJNA1398431 dataset/publication. No publication DOI or release DOI has been assigned here. The MIT License applies to original project analysis code only. Derived data are provided for scientific reproducibility and do not assert ownership of the original sequencing data. External RNA-seq, reference genome, annotation, ontology and other third-party resources retain their original terms/licenses. See LICENSE_SCOPE.md for scope.
+
+Funding: The authors received no specific funding for this work.
+
+Competing interests: The authors declare no competing interests.

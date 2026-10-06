@@ -5,6 +5,7 @@ title: "Carrot early callus transcriptome reproducibility code and derived data"
 authors:
   - family-names: Kim
     given-names: Tae-Yoon
+    email: kimtaey@oregonstate.edu
   - family-names: Woo
     given-names: Heesung
 abstract: "Code, metadata and derived data for genotype-dependent early carrot callus-induction transcriptional response analysis. Manuscript under preparation."
