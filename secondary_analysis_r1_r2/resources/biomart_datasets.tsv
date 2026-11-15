@@ -1,0 +1,534 @@
+ 
+TableSet	hvhid055_eg_gene	Hordeum vulgare HID055 genes (Hvulgare_HID055_BPGv2)	1	Hvulgare_HID055_BPGv2	200	50000	default	2026-05-14 10:42:11
+ 
+TableSet	cavellana_eg_gene	Corylus avellana genes (CavTom2PMs-1.0)	1	CavTom2PMs-1.0	200	50000	default	2026-05-14 10:38:25
+ 
+TableSet	osgobolsailbalam_eg_gene	Oryza sativa (Xian/Indica-2A var. Gobol Sail) genes (Os132424RS1)	1	Os132424RS1	200	50000	default	2026-05-14 10:49:49
+ 
+TableSet	csativa_eg_gene	Camelina sativa genes (Cs)	1	Cs	200	50000	default	2026-05-14 10:37:33
+ 
+TableSet	hvwbdc103_eg_gene	Hordeum vulgare WBDC103 genes (Hvulgare_WBDC_103_BPGv2)	1	Hvulgare_WBDC_103_BPGv2	200	50000	default	2026-05-14 10:45:38
+ 
+TableSet	pvera_eg_gene	Pistacia vera genes (PisVer_v2)	1	PisVer_v2	200	50000	default	2026-05-14 10:51:39
+ 
+TableSet	asgca947310875v1cm_eg_gene	Avena sativa Bannister genes (Asativa_cv_Bannister_v1.0)	1	Asativa_cv_Bannister_v1.0	200	50000	default	2026-05-14 10:25:27
+ 
+TableSet	brapa_eg_gene	Brassica rapa genes (Brapa_1.0)	1	Brapa_1.0	200	50000	default	2026-05-14 10:37:02
+ 
+TableSet	phallii_eg_gene	Panicum hallii HAL2 genes (PhalliiHAL_v2.1)	1	PhalliiHAL_v2.1	200	50000	default	2026-05-14 10:51:11
+ 
+TableSet	dcarota_eg_gene	Daucus carota genes (ASM162521v1)	1	ASM162521v1	200	50000	default	2026-05-14 10:38:53
+ 
+TableSet	hvhockett_eg_gene	Hordeum vulgare Hockett genes (Hvulgare_cv_Hockett_BPGv2)	1	Hvulgare_cv_Hockett_BPGv2	200	50000	default	2026-05-14 10:45:07
+ 
+TableSet	algca910589755v1cm_eg_gene	Avena longiglumis CN58138 genes (Avena_longiglumis_CN58138_v1_assembly)	1	Avena_longiglumis_CN58138_v1_assembly	200	50000	default	2026-05-14 10:23:37
+ 
+TableSet	oglumipatula_eg_gene	Oryza glumipatula genes (Oryza_glumaepatula_v1.5)	1	Oryza_glumaepatula_v1.5	200	50000	default	2026-05-14 10:48:30
+ 
+TableSet	hvakashinriki_eg_gene	Hordeum vulgare Akashinriki genes (Hvulgare_cv_Akashinriki_BPGv2)	1	Hvulgare_cv_Akashinriki_BPGv2	200	50000	default	2026-05-14 10:41:05
+ 
+TableSet	sitalica_eg_gene	Setaria italica genes (Setaria_italica_v2.0)	1	Setaria_italica_v2.0	200	50000	default	2026-05-14 10:53:14
+ 
+TableSet	hvhor10096_eg_gene	Hordeum vulgare HOR10096 genes (Hvulgare_HOR_10096_BPGv2)	1	Hvulgare_HOR_10096_BPGv2	200	50000	default	2026-05-14 10:42:30
+ 
+TableSet	osn22_eg_gene	Oryza sativa (circum-Aus1 var. N22) genes (OsN22RS2)	1	OsN22RS2	200	50000	default	2026-05-14 10:50:30
+ 
+TableSet	ahalleri_eg_gene	Arabidopsis halleri genes (Ahal2.2)	1	Ahal2.2	200	50000	default	2026-05-14 10:22:04
+ 
+TableSet	hvulgare_eg_gene	Hordeum vulgare genes (MorexV3_pseudomolecules_assembly)	1	MorexV3_pseudomolecules_assembly	200	50000	default	2026-05-14 10:40:52
+ 
+TableSet	hvwbdc133_eg_gene	Hordeum vulgare WBDC133 genes (Hvulgare_WBDC_133_BPGv2)	1	Hvulgare_WBDC_133_BPGv2	200	50000	default	2026-05-14 10:45:42
+ 
+TableSet	hvwbdc199_eg_gene	Hordeum vulgare WBDC199 genes (Hvulgare_WBDC_199_BPGv2)	1	Hvulgare_WBDC_199_BPGv2	200	50000	default	2026-05-14 10:45:49
+ 
+TableSet	cbraunii_eg_gene	Chara braunii genes (Cbr_1.0)	1	Cbr_1.0	200	50000	default	2026-05-14 10:37:51
+ 
+TableSet	osativa_eg_gene	Oryza sativa Japonica Group genes (IRGSP-1.0)	1	IRGSP-1.0	200	50000	default	2026-05-14 10:50:56
+ 
+TableSet	etef_eg_gene	Eragrostis tef genes (Salk_teff_dabbi_3.0)	1	Salk_teff_dabbi_3.0	200	50000	default	2026-05-14 10:39:39
+ 
+TableSet	bjuncea_eg_gene	Brassica juncea genes (ASM1870372v1)	1	ASM1870372v1	200	50000	default	2026-05-14 10:36:34
+ 
+TableSet	ccgca000340665v2gb_eg_gene	Cajanus cajan genes (C.cajan_V1.1)	1	C.cajan_V1.1	200	50000	default	2026-05-14 10:37:20
+ 
+TableSet	asgca947310285v1cm_eg_gene	Avena sativa Aslak genes (Asativa_cv_Aslak_v1.0)	1	Asativa_cv_Aslak_v1.0	200	50000	default	2026-05-14 10:24:56
+ 
+TableSet	asgca947311225v1cm_eg_gene	Avena sativa HativesdesAlpes genes (Asativa_cv_Hatives_des_Alpes_v1.0)	1	Asativa_cv_Hatives_des_Alpes_v1.0	200	50000	default	2026-05-14 10:29:53
+ 
+TableSet	psativum_eg_gene	Pisum sativum genes (Pisum_sativum_v1a)	1	Pisum_sativum_v1a	200	50000	default	2026-05-14 10:51:46
+ 
+TableSet	mtruncatula_eg_gene	Medicago truncatula genes (MtrunA17r5.0_ANR)	1	MtrunA17r5.0_ANR	200	50000	default	2026-05-14 10:47:31
+ 
+TableSet	vfaba_eg_gene	Vicia faba genes (Hedin2_genome_v1)	1	Hedin2_genome_v1	200	50000	default	2026-05-14 11:04:04
+ 
+TableSet	hvhor9972_eg_gene	Hordeum vulgare HOR9972 genes (Hvulgare_HOR_9972_BPGv2)	1	Hvulgare_HOR_9972_BPGv2	200	50000	default	2026-05-14 10:45:03
+ 
+TableSet	takariega_eg_gene	Triticum aestivum Kariega genes (Tae_Kariega_v1)	1	Tae_Kariega_v1	200	50000	default	2026-05-14 10:57:30
+ 
+TableSet	lpgca030347555v1cm_eg_gene	Lablab purpureus Natoba genes (ILRI_Lpur)	1	ILRI_Lpur	200	50000	default	2026-05-14 10:46:37
+ 
+TableSet	hvhor13663_eg_gene	Hordeum vulgare HOR13663 genes (Hvulgare_HOR_13663_BPGv2)	1	Hvulgare_HOR_13663_BPGv2	200	50000	default	2026-05-14 10:43:00
+ 
+TableSet	hvhid249_eg_gene	Hordeum vulgare HID249 genes (Hvulgare_HID249_BPGv2)	1	Hvulgare_HID249_BPGv2	200	50000	default	2026-05-14 10:42:18
+ 
+TableSet	tarefseqv2_eg_gene	Triticum aestivum Refseqv2 genes (IWGSC_RefSeq_v2.1)	1	IWGSC_RefSeq_v2.1	200	50000	default	2026-05-14 11:00:02
+ 
+TableSet	hvhor7172_eg_gene	Hordeum vulgare HOR7172 genes (Hvulgare_HOR_7172_BPGv2)	1	Hvulgare_HOR_7172_BPGv2	200	50000	default	2026-05-14 10:44:36
+ 
+TableSet	asgca951802365v1cm_eg_gene	Avena sativa Morgan genes (Asativa_cv_Morgan_v1.0)	1	Asativa_cv_Morgan_v1.0	200	50000	default	2026-05-14 10:31:29
+ 
+TableSet	aegca910589775v1cm_eg_gene	Avena eriantha BYU132 genes (Avena_eriantha_BYU132_v1_assembly)	1	Avena_eriantha_BYU132_v1_assembly	200	50000	default	2026-05-14 10:23:13
+ 
+TableSet	vangularis_eg_gene	Vigna angularis genes (Vigan1.1)	1	Vigan1.1	200	50000	default	2026-05-14 11:04:09
+ 
+TableSet	hvhid101_eg_gene	Hordeum vulgare HID101 genes (Hvulgare_HID101_BPGv2)	1	Hvulgare_HID101_BPGv2	200	50000	default	2026-05-14 10:42:14
+ 
+TableSet	fcarica_eg_gene	Ficus carica genes (UNIPI_FiCari_1.0)	1	UNIPI_FiCari_1.0	200	50000	default	2026-05-14 10:39:56
+ 
+TableSet	bnapus_eg_gene	Brassica napus genes (AST_PRJEB5043_v1)	1	AST_PRJEB5043_v1	200	50000	default	2026-05-14 10:36:48
+ 
+TableSet	oszs97_eg_gene	Oryza sativa (Xian/Indica-1A var. Zhenshan 97) genes (ZS97RS3)	1	ZS97RS3	200	50000	default	2026-05-14 10:49:29
+ 
+TableSet	asgca947311235v1cm_eg_gene	Avena sativa Gmi423 genes (Asativa_cv_GMI423_v1.0)	1	Asativa_cv_GMI423_v1.0	200	50000	default	2026-05-14 10:28:55
+ 
+TableSet	hvrgtplanet_eg_gene	Hordeum vulgare RGTPlanet genes (Hvulgare_cv_RGT_Planet_BPGv2)	1	Hvulgare_cv_RGT_Planet_BPGv2	200	50000	default	2026-05-14 10:45:26
+ 
+TableSet	creinhardtii_eg_gene	Chlamydomonas reinhardtii genes (Chlamydomonas_reinhardtii_v5.5)	1	Chlamydomonas_reinhardtii_v5.5	200	50000	default	2026-05-14 10:38:01
+ 
+TableSet	hvgoldenmelon_eg_gene	Hordeum vulgare Goldenmelon genes (Hvulgare_cv_Golden_Melon_BPGv2)	1	Hvulgare_cv_Golden_Melon_BPGv2	200	50000	default	2026-05-14 10:42:07
+ 
+TableSet	ttimopheevii_eg_gene	Triticum timopheevii genes (WRC_timopheevii_genome_with_organelles)	1	WRC_timopheevii_genome_with_organelles	200	50000	default	2026-05-14 11:03:21
+ 
+TableSet	tarenan_eg_gene	Triticum aestivum Renan genes (Triticum_aestivum_Renan_v2.1)	1	Triticum_aestivum_Renan_v2.1	200	50000	default	2026-05-14 11:00:26
+ 
+TableSet	acomosus_eg_gene	Ananas comosus genes (F153)	1	F153	200	50000	default	2026-05-14 10:21:59
+ 
+TableSet	olucimarinus_eg_gene	Ostreococcus lucimarinus genes (ASM9206v1)	1	ASM9206v1	200	50000	default	2026-05-14 10:50:57
+ 
+TableSet	aofficinalis_eg_gene	Asparagus officinalis genes (Aspof.V1)	1	Aspof.V1	200	50000	default	2026-05-14 10:22:34
+ 
+TableSet	aogca947310975v1cm_eg_gene	Avena occidentalis CN25955 genes (Afatua_CN25955_v1.0)	1	Afatua_CN25955_v1.0	200	50000	default	2026-05-14 10:24:30
+ 
+TableSet	hvhor14061_eg_gene	Hordeum vulgare HOR14061 genes (Hvulgare_HOR_14061_BPGv2)	1	Hvulgare_HOR_14061_BPGv2	200	50000	default	2026-05-14 10:43:13
+ 
+TableSet	cclementina_eg_gene	Citrus clementina genes (Citrus_clementina_v1.0)	1	Citrus_clementina_v1.0	200	50000	default	2026-05-14 10:38:13
+ 
+TableSet	gsulphuraria_eg_gene	Galdieria sulphuraria genes (ASM34128v1)	1	ASM34128v1	200	50000	default	2026-05-14 10:40:05
+ 
+TableSet	onivara_eg_gene	Oryza nivara genes (Oryza_nivara_v1.0)	1	Oryza_nivara_v1.0	200	50000	default	2026-05-14 10:48:48
+ 
+TableSet	brz1_eg_gene	Brassica rapa Z1 genes (brapa_z1_v2)	1	brapa_z1_v2	200	50000	default	2026-05-14 10:37:15
+ 
+TableSet	orufipogon_eg_gene	Oryza rufipogon genes (OR_W1943)	1	OR_W1943	200	50000	default	2026-05-14 10:49:01
+ 
+TableSet	oslarhamugad_eg_gene	Oryza sativa (Xian/Indica-2B var. Larha Mugad) genes (Os125619RS1)	1	Os125619RS1	200	50000	default	2026-05-14 10:49:55
+ 
+TableSet	omeridionalis_eg_gene	Oryza meridionalis genes (Oryza_meridionalis_v1.3)	1	Oryza_meridionalis_v1.3	200	50000	default	2026-05-14 10:48:41
+ 
+TableSet	clanatus_eg_gene	Citrullus lanatus genes (Cla97_v1)	1	Cla97_v1	200	50000	default	2026-05-14 10:38:06
+ 
+TableSet	tastanley_eg_gene	Triticum aestivum Stanley genes (PGSBv2.2_Stanley)	1	PGSBv2.2_Stanley	200	50000	default	2026-05-14 11:01:15
+ 
+TableSet	oindica_eg_gene	Oryza sativa Indica Group genes (ASM465v1)	1	ASM465v1	200	50000	default	2026-05-14 10:50:49
+ 
+TableSet	hvwbdc078_eg_gene	Hordeum vulgare WBDC078 genes (Hvulgare_WBDC_078_BPGv2)	1	Hvulgare_WBDC_078_BPGv2	200	50000	default	2026-05-14 10:45:35
+ 
+TableSet	asgca951802355v1cm_eg_gene	Avena sativa Leggett genes (Asativa_cv_Legett_v1.0)	1	Asativa_cv_Legett_v1.0	200	50000	default	2026-05-14 10:30:40
+ 
+TableSet	hvft286_eg_gene	Hordeum vulgare FT286 genes (Hvulgare_FT286_BPGv2)	1	Hvulgare_FT286_BPGv2	200	50000	default	2026-05-14 10:41:38
+ 
+TableSet	lsgca002870075v4gb_eg_gene	Lactuca sativa Salinas genes (Lsat_Salinas_v11)	1	Lsat_Salinas_v11	200	50000	default	2026-05-14 10:46:42
+ 
+TableSet	hvgoldenpromise_eg_gene	Hordeum vulgare GoldenPromise genes (Hvulgare_cv_Golden_Promise_BPGv2)	1	Hvulgare_cv_Golden_Promise_BPGv2	200	50000	default	2026-05-14 10:42:02
+ 
+TableSet	osketannangka_eg_gene	Oryza sativa (Geng/Japonica-trop2 var. Ketan Nangka) genes (Os128077RS1)	1	Os128077RS1	200	50000	default	2026-05-14 10:49:22
+ 
+TableSet	tajulius_eg_gene	Triticum aestivum Julius genes (PGSBv2.0_Julius)	1	PGSBv2.0_Julius	200	50000	default	2026-05-14 10:56:44
+ 
+TableSet	hvhid357_eg_gene	Hordeum vulgare HID357 genes (Hvulgare_HID357_BPGv2)	1	Hvulgare_HID357_BPGv2	200	50000	default	2026-05-14 10:42:22
+ 
+TableSet	hvhor21322_eg_gene	Hordeum vulgare HOR21322 genes (Hvulgare_HOR_21322_BPGv2)	1	Hvulgare_HOR_21322_BPGv2	200	50000	default	2026-05-14 10:43:42
+ 
+TableSet	pvulgaris_eg_gene	Phaseolus vulgaris genes (PhaVulg1_0)	1	PhaVulg1_0	200	50000	default	2026-05-14 10:51:22
+ 
+TableSet	hvhor21595_eg_gene	Hordeum vulgare HOR21595 genes (Hvulgare_HOR_21595_BPGv2)	1	Hvulgare_HOR_21595_BPGv2	200	50000	default	2026-05-14 10:43:48
+ 
+TableSet	hvoun333_eg_gene	Hordeum vulgare OUN333 genes (Hvulgare_OUN333_BPGv2)	1	Hvulgare_OUN333_BPGv2	200	50000	default	2026-05-14 10:45:21
+ 
+TableSet	asgca947311135v1cm_eg_gene	Avena sativa Nicolas genes (Asativa_cv_Nicolas_v1.0)	1	Asativa_cv_Nicolas_v1.0	200	50000	default	2026-05-14 10:31:51
+ 
+TableSet	osliuxu_eg_gene	Oryza sativa (Xian/Indica-3B2 var. Liu Xu) genes (Os125827RS1)	1	Os125827RS1	200	50000	default	2026-05-14 10:50:16
+ 
+TableSet	nattenuata_eg_gene	Nicotiana attenuata genes (NIATTr2)	1	NIATTr2	200	50000	default	2026-05-14 10:47:43
+ 
+TableSet	oskhaoyaiguang_eg_gene	Oryza sativa (Xian/Indica-3B1 var. Khao Yai Guang) genes (Os127518RS1)	1	Os127518RS1	200	50000	default	2026-05-14 10:50:08
+ 
+TableSet	fexcelsior_eg_gene	Fraxinus excelsior genes (BATG-0.5)	1	BATG-0.5	200	50000	default	2026-05-14 10:40:03
+ 
+TableSet	oschaomeo_eg_gene	Oryza sativa (Geng/Japonica-sbtrp var. Chao Meo) genes (Os132278RS1)	1	Os132278RS1	200	50000	default	2026-05-14 10:49:08
+ 
+TableSet	hannuus_eg_gene	Helianthus annuus genes (HanXRQr2.0-SUNRISE)	1	HanXRQr2.0-SUNRISE	200	50000	default	2026-05-14 10:40:46
+ 
+TableSet	abgca910574625v1cm_eg_gene	Avena byzantina PI258586 genes (Avena_byzantina_PI258586_v1_assembly)	1	Avena_byzantina_PI258586_v1_assembly	200	50000	default	2026-05-14 10:23:07
+ 
+TableSet	hvbarke_eg_gene	Hordeum vulgare Barke genes (Hvulgare_cv_Barke_BPGv2)	1	Hvulgare_cv_Barke_BPGv2	200	50000	default	2026-05-14 10:41:09
+ 
+TableSet	hvhor8117_eg_gene	Hordeum vulgare HOR8117 genes (Hvulgare_HOR_8117_BPGv2)	1	Hvulgare_HOR_8117_BPGv2	200	50000	default	2026-05-14 10:44:49
+ 
+TableSet	ecrusgalli_eg_gene	Echinochloa crus-galli genes (ec_v3)	1	ec_v3	200	50000	default	2026-05-14 10:39:22
+ 
+TableSet	ahypogaea_eg_gene	Arachis hypogaea genes (arahy.Tifrunner.gnm2.J5K5)	1	arahy.Tifrunner.gnm2.J5K5	200	50000	default	2026-05-14 10:22:31
+ 
+TableSet	mpolymorpha_eg_gene	Marchantia polymorpha genes (MpTak1_v7.1)	1	MpTak1_v7.1	200	50000	default	2026-05-14 10:47:25
+ 
+TableSet	asgca947313515v1cm_eg_gene	Avena sterilis TN4 genes (Asterilis_TN4_v1.0)	1	Asterilis_TN4_v1.0	200	50000	default	2026-05-14 10:36:11
+ 
+TableSet	egrandis_eg_gene	Eucalyptus grandis genes (Egrandis1_0)	1	Egrandis1_0	200	50000	default	2026-05-14 10:39:46
+ 
+TableSet	hvhor13594_eg_gene	Hordeum vulgare HOR13594 genes (Hvulgare_HOR_13594_BPGv2)	1	Hvulgare_HOR_13594_BPGv2	200	50000	default	2026-05-14 10:42:56
+ 
+TableSet	hvft333_eg_gene	Hordeum vulgare FT333 genes (Hvulgare_FT333_BPGv2)	1	Hvulgare_FT333_BPGv2	200	50000	default	2026-05-14 10:41:42
+ 
+TableSet	hvhor18321_eg_gene	Hordeum vulgare HOR18321 genes (Hvulgare_HOR_18321_BPGv2)	1	Hvulgare_HOR_18321_BPGv2	200	50000	default	2026-05-14 10:43:29
+ 
+TableSet	asgca947310255v1cm_eg_gene	Avena magna x Avena longiglumis genes (Asativa_cv_Amagalon_v1.0)	1	Asativa_cv_Amagalon_v1.0	200	50000	default	2026-05-14 10:24:09
+ 
+TableSet	hvhor21599_eg_gene	Hordeum vulgare HOR21599 genes (Hvulgare_HOR_21599_BPGv2)	1	Hvulgare_HOR_21599_BPGv2	200	50000	default	2026-05-14 10:43:53
+ 
+TableSet	hvhor8148_eg_gene	Hordeum vulgare HOR8148 genes (Hvulgare_HOR_8148_BPGv2)	1	Hvulgare_HOR_8148_BPGv2	200	50000	default	2026-05-14 10:44:54
+ 
+TableSet	taparagon_eg_gene	Triticum aestivum Paragon genes (GCA949126075v1)	1	GCA949126075v1	200	50000	default	2026-05-14 10:59:37
+ 
+TableSet	athaliana_eg_gene	Arabidopsis thaliana genes (TAIR10)	1	TAIR10	200	50000	default	2026-05-14 10:22:18
+ 
+TableSet	psgca024323335v2gb_eg_gene	Pisum sativum Garden pea genes (CAAS_Psat_ZW6_1.0)	1	CAAS_Psat_ZW6_1.0	200	50000	default	2026-05-14 10:51:54
+ 
+TableSet	smoellendorffii_eg_gene	Selaginella moellendorffii genes (v1.0)	1	v1.0	200	50000	default	2026-05-14 10:53:04
+ 
+TableSet	hvwbdc184_eg_gene	Hordeum vulgare WBDC184 genes (Hvulgare_WBDC_184_BPGv2)	1	Hvulgare_WBDC_184_BPGv2	200	50000	default	2026-05-14 10:45:46
+ 
+TableSet	asot3098_eg_gene	Avena sativa OT3098 genes (Oat_OT3098_v2)	1	Oat_OT3098_v2	200	50000	default	2026-05-14 10:32:28
+ 
+TableSet	sstenocarpa_eg_gene	Sphenostylis stenocarpa genes (hybrid_with_Hi_C)	1	hybrid_with_Hi_C	200	50000	default	2026-05-14 10:53:50
+ 
+TableSet	tarobigus_eg_gene	Triticum aestivum Robigus genes (TGAC_robigus)	1	TGAC_robigus	200	50000	default	2026-05-14 11:00:50
+ 
+TableSet	hvbonus_eg_gene	Hordeum vulgare Bonus genes (Hvulgare_cv_Bonus_BPGv2)	1	Hvulgare_cv_Bonus_BPGv2	200	50000	default	2026-05-14 10:41:14
+ 
+TableSet	sindicum_eg_gene	Sesamum indicum genes (S_indicum_v1.0)	1	S_indicum_v1.0	200	50000	default	2026-05-14 10:53:08
+ 
+TableSet	hvhor1168_eg_gene	Hordeum vulgare HOR1168 genes (Hvulgare_HOR_1168_BPGv2)	1	Hvulgare_HOR_1168_BPGv2	200	50000	default	2026-05-14 10:42:43
+ 
+TableSet	cmerolae_eg_gene	Cyanidioschyzon merolae genes (ASM9120v1)	1	ASM9120v1	200	50000	default	2026-05-14 10:38:43
+ 
+TableSet	langustifolius_eg_gene	Lupinus angustifolius genes (LupAngTanjil_v1.0)	1	LupAngTanjil_v1.0	200	50000	default	2026-05-14 10:47:06
+ 
+TableSet	boleracea_eg_gene	Brassica oleracea genes (BOL)	1	BOL	200	50000	default	2026-05-14 10:36:56
+ 
+TableSet	taclaire_eg_gene	Triticum aestivum Claire genes (TGAC_paragon)	1	TGAC_paragon	200	50000	default	2026-05-14 10:55:58
+ 
+TableSet	sviridis_eg_gene	Setaria viridis genes (Setaria_viridis_v2.0)	1	Setaria_viridis_v2.0	200	50000	default	2026-05-14 10:53:22
+ 
+TableSet	hvft67_eg_gene	Hordeum vulgare FT67 genes (Hvulgare_FT67_BPGv2)	1	Hvulgare_FT67_BPGv2	200	50000	default	2026-05-14 10:41:49
+ 
+TableSet	hvhor14273_eg_gene	Hordeum vulgare HOR14273 genes (Hvulgare_HOR_14273_BPGv2)	1	Hvulgare_HOR_14273_BPGv2	200	50000	default	2026-05-14 10:43:21
+ 
+TableSet	hvhor9043_eg_gene	Hordeum vulgare HOR9043 genes (Hvulgare_HOR_9043_BPGv2)	1	Hvulgare_HOR_9043_BPGv2	200	50000	default	2026-05-14 10:44:58
+ 
+TableSet	psgca964186695v1gb_eg_gene	Pisum sativum JI2822 genes (JIC_Psat_v1.3)	1	JIC_Psat_v1.3	200	50000	default	2026-05-14 10:52:00
+ 
+TableSet	qlobata_eg_gene	Quercus lobata genes (ValleyOak3.0)	1	ValleyOak3.0	200	50000	default	2026-05-14 10:52:32
+ 
+TableSet	hvchikurinibaraki1_eg_gene	Hordeum vulgare ChikurinIbaraki genes (Hvulgare_cv_Chikurin_Ibaraki1_BPGv2)	1	Hvulgare_cv_Chikurin_Ibaraki1_BPGv2	200	50000	default	2026-05-14 10:41:24
+ 
+TableSet	gmax_eg_gene	Glycine max genes (Glycine_max_v2.1)	1	Glycine_max_v2.1	200	50000	default	2026-05-14 10:40:18
+ 
+TableSet	ecurvula_eg_gene	Eragrostis curvula genes (CERZOS_E.curvula1.0)	1	CERZOS_E.curvula1.0	200	50000	default	2026-05-14 10:39:30
+ 
+TableSet	hvhor3081_eg_gene	Hordeum vulgare HOR3081 genes (Hvulgare_HOR_3081_BPGv2)	1	Hvulgare_HOR_3081_BPGv2	200	50000	default	2026-05-14 10:44:11
+ 
+TableSet	ppersica_eg_gene	Prunus persica genes (Prunus_persica_NCBIv2)	1	Prunus_persica_NCBIv2	200	50000	default	2026-05-14 10:52:26
+ 
+TableSet	asgca947311155v1cm_eg_gene	Avena sativa Lion genes (Asativa_cv_Lion_v1.0)	1	Asativa_cv_Lion_v1.0	200	50000	default	2026-05-14 10:31:08
+ 
+TableSet	tacadenza_eg_gene	Triticum aestivum Cadenza genes (TGAC_cadenza)	1	TGAC_cadenza	200	50000	default	2026-05-14 10:55:35
+ 
+TableSet	cannuum_eg_gene	Capsicum annuum genes (ASM51225v2)	1	ASM51225v2	200	50000	default	2026-05-14 10:37:45
+ 
+TableSet	obarthii_eg_gene	Oryza barthii genes (O.barthii_v1)	1	O.barthii_v1	200	50000	default	2026-05-14 10:48:12
+ 
+TableSet	hvhor10892_eg_gene	Hordeum vulgare HOR10892 genes (Hvulgare_HOR_10892_BPGv2)	1	Hvulgare_HOR_10892_BPGv2	200	50000	default	2026-05-14 10:42:39
+ 
+TableSet	bdistachyon_eg_gene	Brachypodium distachyon genes (Brachypodium_distachyon_v3.0)	1	Brachypodium_distachyon_v3.0	200	50000	default	2026-05-14 10:36:25
+ 
+TableSet	ccanephora_eg_gene	Coffea canephora genes (AUK_PRJEB4211_v1)	1	AUK_PRJEB4211_v1	200	50000	default	2026-05-14 10:38:17
+ 
+TableSet	kfedtschenkoi_eg_gene	Kalanchoe fedtschenkoi genes (K_fedtschenkoi_M2_v1)	1	K_fedtschenkoi_M2_v1	200	50000	default	2026-05-14 10:46:33
+ 
+TableSet	asgca947311295v1cm_eg_gene	Avena sativa Rhapsody genes (Asativa_cv_Rhapsody_v1.0)	1	Asativa_cv_Rhapsody_v1.0	200	50000	default	2026-05-14 10:34:17
+ 
+TableSet	hvhor1702_eg_gene	Hordeum vulgare HOR1702 genes (Hvulgare_HOR_1702_BPGv2)	1	Hvulgare_HOR_1702_BPGv2	200	50000	default	2026-05-14 10:43:25
+ 
+TableSet	pavium_eg_gene	Prunus avium genes (PAV_r1.0)	1	PAV_r1.0	200	50000	default	2026-05-14 10:52:14
+ 
+TableSet	talandmark_eg_gene	Triticum aestivum Landmark genes (PGSBv2.0_Landmark)	1	PGSBv2.0_Landmark	200	50000	default	2026-05-14 10:58:17
+ 
+TableSet	oeuropaea_eg_gene	Olea europaea genes (OLEA9)	1	OLEA9	200	50000	default	2026-05-14 10:48:01
+ 
+TableSet	hvwbdc237_eg_gene	Hordeum vulgare WBDC237 genes (Hvulgare_WBDC_237_BPGv2)	1	Hvulgare_WBDC_237_BPGv2	200	50000	default	2026-05-14 10:45:57
+ 
+TableSet	opunctata_eg_gene	Oryza punctata genes (Oryza_punctata_v1.2)	1	Oryza_punctata_v1.2	200	50000	default	2026-05-14 10:48:54
+ 
+TableSet	ppatens_eg_gene	Physcomitrium patens genes (Phypa V3)	1	Phypa V3	200	50000	default	2026-05-14 10:51:34
+ 
+TableSet	hvigri_eg_gene	Hordeum vulgare Igri genes (Hvulgare_Igri_BPGv2)	1	Hvulgare_Igri_BPGv2	200	50000	default	2026-05-14 10:45:12
+ 
+TableSet	vvinifera_eg_gene	Vitis vinifera genes (ASM3070453v1)	1	ASM3070453v1	200	50000	default	2026-05-14 11:04:28
+ 
+TableSet	hvzdm02064_eg_gene	Hordeum vulgare ZDM02064 genes (Hvulgare_cv_Chiba_ZDM02064_BPGv2)	1	Hvulgare_cv_Chiba_ZDM02064_BPGv2	200	50000	default	2026-05-14 10:46:13
+ 
+TableSet	hvhor7552_eg_gene	Hordeum vulgare HOR7552 genes (Hvulgare_HOR_7552_BPGv2)	1	Hvulgare_HOR_7552_BPGv2	200	50000	default	2026-05-14 10:44:45
+ 
+TableSet	asgca947311355v1cm_eg_gene	Avena sativa Fm13 genes (Asativa_FM13_v1.0)	1	Asativa_FM13_v1.0	200	50000	default	2026-05-14 10:27:53
+ 
+TableSet	hvhor7385_eg_gene	Hordeum vulgare HOR7385 genes (Hvulgare_HOR_7385_BPGv2)	1	Hvulgare_HOR_7385_BPGv2	200	50000	default	2026-05-14 10:44:40
+ 
+TableSet	asgca947311915v1cm_eg_gene	Avena sativa Gs7 genes (Asativa_GS7_v1.0)	1	Asativa_GS7_v1.0	200	50000	default	2026-05-14 10:29:24
+ 
+TableSet	hv10tj18_eg_gene	Hordeum vulgare 10TJ18 genes (Hvulgare_10TJ18_BPGv2)	1	Hvulgare_10TJ18_BPGv2	200	50000	default	2026-05-14 10:40:56
+ 
+TableSet	asgca947311555v1cm_eg_gene	Avena sativa Delfin genes (Asativa_cv_Delfin_v1.0)	1	Asativa_cv_Delfin_v1.0	200	50000	default	2026-05-14 10:27:21
+ 
+TableSet	tanorin61_eg_gene	Triticum aestivum Norin61 genes (PGSBv2.0_Norin61)	1	PGSBv2.0_Norin61	200	50000	default	2026-05-14 10:59:08
+ 
+TableSet	hvhid380_eg_gene	Hordeum vulgare HID380 genes (Hvulgare_HID380_BPGv2)	1	Hvulgare_HID380_BPGv2	200	50000	default	2026-05-14 10:42:26
+ 
+TableSet	atauschii_eg_gene	Aegilops tauschii genes (Aet v4.0)	1	Aet v4.0	200	50000	default	2026-05-14 10:21:23
+ 
+TableSet	hvwbdc207_eg_gene	Hordeum vulgare WBDC207 genes (Hvulgare_WBDC_207_BPGv2)	1	Hvulgare_WBDC_207_BPGv2	200	50000	default	2026-05-14 10:45:53
+ 
+TableSet	tdicoccoides_eg_gene	Triticum dicoccoides genes (WEWSeq v.1.0)	1	WEWSeq v.1.0	200	50000	default	2026-05-14 11:02:39
+ 
+TableSet	taweebil_eg_gene	Triticum aestivum Weebill genes (EI_WeebilV1)	1	EI_WeebilV1	200	50000	default	2026-05-14 11:02:05
+ 
+TableSet	taestivum_eg_gene	Triticum aestivum genes (IWGSC)	1	IWGSC	200	50000	default	2026-05-14 10:54:32
+ 
+TableSet	asgca947312425v1cm_eg_gene	Avena sativa Pi182478 genes (Asativa_PI182478_v1.0)	1	Asativa_PI182478_v1.0	200	50000	default	2026-05-14 10:33:47
+ 
+TableSet	cquinoa_eg_gene	Chenopodium quinoa genes (ASM168347v1)	1	ASM168347v1	200	50000	default	2026-05-14 10:37:56
+ 
+TableSet	dexilis_eg_gene	Digitaria exilis genes (Fonio_CM05836)	1	Fonio_CM05836	200	50000	default	2026-05-14 10:39:01
+ 
+TableSet	hvhor13942_eg_gene	Hordeum vulgare HOR13942 genes (Hvulgare_HOR_13942_BPGv2)	1	Hvulgare_HOR_13942_BPGv2	200	50000	default	2026-05-14 10:43:08
+ 
+TableSet	aigca910574615v1cm_eg_gene	Avena insularis BYU209 genes (Avena_insularis_BYU209_v1_assembly)	1	Avena_insularis_BYU209_v1_assembly	200	50000	default	2026-05-14 10:23:29
+ 
+TableSet	gsoja_eg_gene	Glycine soja (Wild soybean) genes (ASM419377v2)	1	ASM419377v2	200	50000	default	2026-05-14 10:40:31
+ 
+TableSet	esalsugineum_eg_gene	Eutrema salsugineum genes (Eutsalg1_0)	1	Eutsalg1_0	200	50000	default	2026-05-14 10:39:51
+ 
+TableSet	osir64_eg_gene	Oryza sativa (Xian/Indica-1B1 var. IR64) genes (OsIR64RS1)	1	OsIR64RS1	200	50000	default	2026-05-14 10:49:35
+ 
+TableSet	hvhor10350_eg_gene	Hordeum vulgare HOR10350 genes (Hvulgare_HOR_10350_BPGv2)	1	Hvulgare_HOR_10350_BPGv2	200	50000	default	2026-05-14 10:42:35
+ 
+TableSet	mesculenta_eg_gene	Manihot esculenta genes (M.esculenta_v8)	1	M.esculenta_v8	200	50000	default	2026-05-14 10:47:21
+ 
+TableSet	bvulgaris_eg_gene	Beta vulgaris genes (RefBeet-1.2.2)	1	RefBeet-1.2.2	200	50000	default	2026-05-14 10:36:16
+ 
+TableSet	osarc_eg_gene	Oryza sativa (circum-Basmati var. ARC 10497) genes (Os117425RS1)	1	Os117425RS1	200	50000	default	2026-05-14 10:50:42
+ 
+TableSet	hvft880_eg_gene	Hordeum vulgare FT880 genes (Hvulgare_FT880_BPGv2)	1	Hvulgare_FT880_BPGv2	200	50000	default	2026-05-14 10:41:53
+ 
+TableSet	hvhor12541_eg_gene	Hordeum vulgare HOR12541 genes (Hvulgare_HOR_12541_BPGv2)	1	Hvulgare_HOR_12541_BPGv2	200	50000	default	2026-05-14 10:42:52
+ 
+TableSet	osnatelboro_eg_gene	Oryza sativa (circum-Aus2 var. Natel Boro) genes (Os127652RS1)	1	Os127652RS1	200	50000	default	2026-05-14 10:50:36
+ 
+TableSet	lperrieri_eg_gene	Leersia perrieri genes (Lperr_V1.4)	1	Lperr_V1.4	200	50000	default	2026-05-14 10:46:54
+ 
+TableSet	vugca004118075v2rs_eg_gene	Vigna unguiculata IT97K-499-35 genes (ASM411807v2)	1	ASM411807v2	200	50000	default	2026-05-14 11:04:22
+ 
+TableSet	hvhor19184_eg_gene	Hordeum vulgare HOR19184 genes (Hvulgare_HOR_19184_BPGv2)	1	Hvulgare_HOR_19184_BPGv2	200	50000	default	2026-05-14 10:43:34
+ 
+TableSet	hvwbdc349_eg_gene	Hordeum vulgare WBDC349 genes (Hvulgare_WBDC_349_BPGv2)	1	Hvulgare_WBDC_349_BPGv2	200	50000	default	2026-05-14 10:46:04
+ 
+TableSet	brro18_eg_gene	Brassica rapa R-o-18 genes (SCU_BraROA_2.3)	1	SCU_BraROA_2.3	200	50000	default	2026-05-14 10:37:08
+ 
+TableSet	tturgidum_eg_gene	Triticum turgidum genes (svevo)	1	svevo	200	50000	default	2026-05-14 11:03:52
+ 
+TableSet	mdgolden_eg_gene	Malus domestica Golden genes (ASM211411v1)	1	ASM211411v1	200	50000	default	2026-05-14 10:47:12
+ 
+TableSet	scereale_eg_gene	Secale cereale genes (Rye_Lo7_2018_v1p1p1)	1	Rye_Lo7_2018_v1p1p1	200	50000	default	2026-05-14 10:52:58
+ 
+TableSet	lperenne_eg_gene	Lolium perenne genes (MPB_Lper_Kyuss_1697)	1	MPB_Lper_Kyuss_1697	200	50000	default	2026-05-14 10:47:00
+ 
+TableSet	asgca947311525v1cm_eg_gene	Avena sativa Bingo genes (Asativa_cv_Bingo_v1.0)	1	Asativa_cv_Bingo_v1.0	200	50000	default	2026-05-14 10:26:30
+ 
+TableSet	ccgca001531365v2gb_eg_gene	Cynara cardunculus Scolymus  genes (CcrdV1.1)	1	CcrdV1.1	200	50000	default	2026-05-14 10:38:47
+ 
+TableSet	hvhor3365_eg_gene	Hordeum vulgare HOR3365 genes (Hvulgare_HOR_3365_BPGv2)	1	Hvulgare_HOR_3365_BPGv2	200	50000	default	2026-05-14 10:44:16
+ 
+TableSet	taarinalrfor_eg_gene	Triticum aestivum Arinalrfor genes (PGSBv2.0_Arinalrfor)	1	PGSBv2.0_Arinalrfor	200	50000	default	2026-05-14 10:55:13
+ 
+TableSet	asgca947311085v1cm_eg_gene	Avena sativa Clintland60 genes (Asativa_cv_Clintland60_v1.0)	1	Asativa_cv_Clintland60_v1.0	200	50000	default	2026-05-14 10:26:57
+ 
+TableSet	aagca910589765v1cm_eg_gene	Avena atlantica CC7277 genes (Avena_atlantica_CC7277_v1_assembly)	1	Avena_atlantica_CC7277_v1_assembly	200	50000	default	2026-05-14 10:22:44
+ 
+TableSet	asgca947311925v1cm_eg_gene	Avena sativa Ot380 genes (Asativa_OT380_v1.0)	1	Asativa_OT380_v1.0	200	50000	default	2026-05-14 10:32:51
+ 
+TableSet	obrachyantha_eg_gene	Oryza brachyantha genes (Oryza_brachyantha.v1.4b)	1	Oryza_brachyantha.v1.4b	200	50000	default	2026-05-14 10:48:17
+ 
+TableSet	asgca947311165v1cm_eg_gene	Avena sativa Hifi genes (Asativa_cv_HiFi_v1.0)	1	Asativa_cv_HiFi_v1.0	200	50000	default	2026-05-14 10:30:17
+ 
+TableSet	hvhor2830_eg_gene	Hordeum vulgare HOR2830 genes (Hvulgare_HOR_2830_BPGv2)	1	Hvulgare_HOR_2830_BPGv2	200	50000	default	2026-05-14 10:44:06
+ 
+TableSet	tamattis_eg_gene	Triticum aestivum Sy Mattis genes (PGSBv2.0_Mattis)	1	PGSBv2.0_Mattis	200	50000	default	2026-05-14 11:01:41
+ 
+TableSet	hvtritex_eg_gene	Hordeum vulgare TRITEX genes (Morex_V2_scaf)	1	Morex_V2_scaf	200	50000	default	2026-05-14 10:45:31
+ 
+TableSet	tpratense_eg_gene	Trifolium pratense genes (Trpr)	1	Trpr	200	50000	default	2026-05-14 10:54:08
+ 
+TableSet	hvhor21256_eg_gene	Hordeum vulgare HOR21256 genes (Hvulgare_HOR_21256_BPGv2)	1	Hvulgare_HOR_21256_BPGv2	200	50000	default	2026-05-14 10:43:38
+ 
+TableSet	oglaberrima_eg_gene	Oryza glaberrima genes (Oryza_glaberrima_V1)	1	Oryza_glaberrima_V1	200	50000	default	2026-05-14 10:48:22
+ 
+TableSet	oesylvestris_eg_gene	Olea europaea var. sylvestris genes (O_europaea_v1)	1	O_europaea_v1	200	50000	default	2026-05-14 10:48:06
+ 
+TableSet	achinensis_eg_gene	Actinidia chinensis genes (Red5_PS1_1.69.0)	1	Red5_PS1_1.69.0	200	50000	default	2026-05-14 10:20:50
+ 
+TableSet	tspelta_eg_gene	Triticum spelta genes (PGSBv2.0_Spelta)	1	PGSBv2.0_Spelta	200	50000	default	2026-05-14 11:02:57
+ 
+TableSet	asgca947311365v1cm_eg_gene	Avena sativa Gehl genes (Asativa_cv_Gehl_v1.0)	1	Asativa_cv_Gehl_v1.0	200	50000	default	2026-05-14 10:28:13
+ 
+TableSet	hvhor2180_eg_gene	Hordeum vulgare HOR2180 genes (Hvulgare_HOR_2180_BPGv2)	1	Hvulgare_HOR_2180_BPGv2	200	50000	default	2026-05-14 10:43:58
+ 
+TableSet	csfemale_eg_gene	Cannabis sativa female genes (cs10)	1	cs10	200	50000	default	2026-05-14 10:37:39
+ 
+TableSet	ccrispus_eg_gene	Chondrus crispus genes (ASM35022v2)	1	ASM35022v2	200	50000	default	2026-05-14 10:38:03
+ 
+TableSet	hvhor4224_eg_gene	Hordeum vulgare HOR4224 genes (Hvulgare_HOR_4224_BPGv2)	1	Hvulgare_HOR_4224_BPGv2	200	50000	default	2026-05-14 10:44:24
+ 
+TableSet	zmays_eg_gene	Zea mays genes (Zm-B73-REFERENCE-NAM-5.0)	1	Zm-B73-REFERENCE-NAM-5.0	200	50000	default	2026-05-14 11:04:38
+ 
+TableSet	cmelo_eg_gene	Cucumis melo genes (Melonv4)	1	Melonv4	200	50000	default	2026-05-14 10:38:37
+ 
+TableSet	hvbowman_eg_gene	Hordeum vulgare Bowman genes (Hvulgare_cv_Bowman_BPGv2)	1	Hvulgare_cv_Bowman_BPGv2	200	50000	default	2026-05-14 10:41:19
+ 
+TableSet	atrichopoda_eg_gene	Amborella trichopoda genes (AMTR1.0)	1	AMTR1.0	200	50000	default	2026-05-14 10:21:55
+ 
+TableSet	assang_eg_gene	Avena sativa Sang genes (Asativa_sang.v1.1)	1	Asativa_sang.v1.1	200	50000	default	2026-05-14 10:34:32
+ 
+TableSet	lsativus_eg_gene	Lathyrus sativus genes (JIC_Lsat_v2.1.1)	1	JIC_Lsat_v2.1.1	200	50000	default	2026-05-14 10:46:47
+ 
+TableSet	hvfoma_eg_gene	Hordeum vulgare Foma genes (Hvulgare_cv_Foma_BPGv2)	1	Hvulgare_cv_Foma_BPGv2	200	50000	default	2026-05-14 10:41:57
+ 
+TableSet	taalchemy_eg_gene	Triticum aestivum Alchemy genes (GCA951799155v1)	1	GCA951799155v1	200	50000	default	2026-05-14 10:54:49
+ 
+TableSet	grgca025698545v1rs_eg_gene	Gossypium raimondii GPD5lz genes (ASM2569854v1)	1	ASM2569854v1	200	50000	default	2026-05-14 10:40:38
+ 
+TableSet	sbicolor_eg_gene	Sorghum bicolor genes (Sorghum_bicolor_NCBIv3)	1	Sorghum_bicolor_NCBIv3	200	50000	default	2026-05-14 10:53:46
+ 
+TableSet	stuberosum_eg_gene	Solanum tuberosum genes (SolTub_3.0)	1	SolTub_3.0	200	50000	default	2026-05-14 10:53:33
+ 
+TableSet	osazucena_eg_gene	Oryza sativa (Geng/Japonica-trop1 var. Azucena) genes (AzucenaRS1)	1	AzucenaRS1	200	50000	default	2026-05-14 10:49:15
+ 
+TableSet	hvhor6220_eg_gene	Hordeum vulgare HOR6220 genes (Hvulgare_HOR_6220_BPGv2)	1	Hvulgare_HOR_6220_BPGv2	200	50000	default	2026-05-14 10:44:32
+ 
+TableSet	hvhor12184_eg_gene	Hordeum vulgare HOR12184 genes (Hvulgare_HOR_12184_BPGv2)	1	Hvulgare_HOR_12184_BPGv2	200	50000	default	2026-05-14 10:42:48
+ 
+TableSet	ospr106_eg_gene	Oryza sativa (Xian/Indica-1B2 var. PR106) genes (Os127742RS1)	1	Os127742RS1	200	50000	default	2026-05-14 10:49:42
+ 
+TableSet	aumbellulata_eg_gene	Aegilops umbellulata genes (TA1851)	1	TA1851	200	50000	default	2026-05-14 10:21:51
+ 
+TableSet	phfil2_eg_gene	Panicum hallii FIL2 genes (PHallii_v3.1)	1	PHallii_v3.1	200	50000	default	2026-05-14 10:51:04
+ 
+TableSet	hvmaximus_eg_gene	Hordeum vulgare Maximus genes (Hvulgare_cv_Maximus_BPGv2)	1	Hvulgare_cv_Maximus_BPGv2	200	50000	default	2026-05-14 10:45:16
+ 
+TableSet	ccitriodora_eg_gene	Corymbia citriodora genes (Ccitriodora_v2_1)	1	Ccitriodora_v2_1	200	50000	default	2026-05-14 10:38:32
+ 
+TableSet	hvft628_eg_gene	Hordeum vulgare FT628 genes (Hvulgare_FT628_BPGv2)	1	Hvulgare_FT628_BPGv2	200	50000	default	2026-05-14 10:41:46
+ 
+TableSet	hvhor13821_eg_gene	Hordeum vulgare HOR13821 genes (Hvulgare_HOR_13821_BPGv2)	1	Hvulgare_HOR_13821_BPGv2	200	50000	default	2026-05-14 10:43:04
+ 
+TableSet	hvft144_eg_gene	Hordeum vulgare FT144 genes (Hvulgare_FT144_BPGv2)	1	Hvulgare_FT144_BPGv2	200	50000	default	2026-05-14 10:41:31
+ 
+TableSet	slgca000188115v5cm_eg_gene	Solanum lycopersicum Heinz1706 genes (SL4.0)	1	SL4.0	200	50000	default	2026-05-14 10:53:26
+ 
+TableSet	pdulcis_eg_gene	Prunus dulcis genes (ALMONDv2)	1	ALMONDv2	200	50000	default	2026-05-14 10:52:18
+ 
+TableSet	asgca947311595v1cm_eg_gene	Avena sativa Victoria genes (Asativa_cv_Victoria_v1.0)	1	Asativa_cv_Victoria_v1.0	200	50000	default	2026-05-14 10:34:59
+ 
+TableSet	sspontaneum_eg_gene	Saccharum spontaneum genes (Sspon.HiC_chr_asm)	1	Sspon.HiC_chr_asm	200	50000	default	2026-05-14 10:52:52
+ 
+TableSet	ptrichocarpa_eg_gene	Populus trichocarpa genes (Pop_tri_v4)	1	Pop_tri_v4	200	50000	default	2026-05-14 10:52:09
+ 
+TableSet	itriloba_eg_gene	Ipomoea triloba genes (ASM357664v1)	1	ASM357664v1	200	50000	default	2026-05-14 10:46:20
+ 
+TableSet	hvzdm01467_eg_gene	Hordeum vulgare ZDM01467 genes (Hvulgare_cv_Du_Li_Huang_ZDM01467_BPGv2)	1	Hvulgare_cv_Du_Li_Huang_ZDM01467_BPGv2	200	50000	default	2026-05-14 10:46:09
+ 
+TableSet	asgca947311345v1cm_eg_gene	Avena sativa Park genes (Asativa_cv_Park_v1.0)	1	Asativa_cv_Park_v1.0	200	50000	default	2026-05-14 10:33:18
+ 
+TableSet	ncgca008831285v2rs_eg_gene	Nymphaea colorata Beijing-Zhang1983 genes (ASM883128v2)	1	ASM883128v2	200	50000	default	2026-05-14 10:47:49
+ 
+TableSet	aalpina_eg_gene	Arabis alpina genes (A_alpina_V4)	1	A_alpina_V4	200	50000	default	2026-05-14 10:22:22
+ 
+TableSet	talancer_eg_gene	Triticum aestivum Lancer genes (PGSBv2.0_Lancer)	1	PGSBv2.0_Lancer	200	50000	default	2026-05-14 10:57:55
+ 
+TableSet	asgca947313225v1cm_eg_gene	Avena sterilis TN1 genes (Asterilis_TN1_v1.0)	1	Asterilis_TN1_v1.0	200	50000	default	2026-05-14 10:35:44
+ 
+TableSet	oslima_eg_gene	Oryza sativa (Xian/Indica-3A var. Lima) genes (Os127564RS1)	1	Os127564RS1	200	50000	default	2026-05-14 10:50:01
+ 
+TableSet	drotundata_eg_gene	Dioscorea rotundata genes (TDr96_F1_v2_PseudoChromosome)	1	TDr96_F1_v2_PseudoChromosome	200	50000	default	2026-05-14 10:39:07
+ 
+TableSet	tccriollo_eg_gene	Theobroma cacao Belizian Criollo B97-61/B2 genes (Criollo_cocoa_genome_V2)	1	Criollo_cocoa_genome_V2	200	50000	default	2026-05-14 10:53:56
+ 
+TableSet	hvft11_eg_gene	Hordeum vulgare FT11 genes (Hvulgare_FT11_B1K_04_12_BPGv2)	1	Hvulgare_FT11_B1K_04_12_BPGv2	200	50000	default	2026-05-14 10:41:27
+ 
+TableSet	rchinensis_eg_gene	Rosa chinensis genes (RchiOBHm-V2)	1	RchiOBHm-V2	200	50000	default	2026-05-14 10:52:45
+ 
+TableSet	olongistaminata_eg_gene	Oryza longistaminata genes (O_longistaminata_v1.0)	1	O_longistaminata_v1.0	200	50000	default	2026-05-14 10:48:34
+ 
+TableSet	qsgca002906115v3rs_eg_gene	Quercus suber HL8 genes (Cork_oak_2.0)	1	Cork_oak_2.0	200	50000	default	2026-05-14 10:52:38
+ 
+TableSet	hvhor3474_eg_gene	Hordeum vulgare HOR3474 genes (Hvulgare_HOR_3474_BPGv2)	1	Hvulgare_HOR_3474_BPGv2	200	50000	default	2026-05-14 10:44:19
+ 
+TableSet	asgca947311775v1cm_eg_gene	Avena sativa Bilby genes (Asativa_cv_Bilby_v1.0)	1	Asativa_cv_Bilby_v1.0	200	50000	default	2026-05-14 10:25:56
+ 
+TableSet	psomniferum_eg_gene	Papaver somniferum genes (ASM357369v1)	1	ASM357369v1	200	50000	default	2026-05-14 10:51:17
+ 
+TableSet	tcacao_eg_gene	Theobroma cacao Matina 1-6 genes (Theobroma_cacao_20110822)	1	Theobroma_cacao_20110822	200	50000	default	2026-05-14 10:54:02
+ 
+TableSet	alyrata_eg_gene	Arabidopsis lyrata genes (v.1.0)	1	v.1.0	200	50000	default	2026-05-14 10:22:09
+ 
+TableSet	ccapsularis_eg_gene	Corchorus capsularis genes (CCACVL1_1.0)	1	CCACVL1_1.0	200	50000	default	2026-05-14 10:38:21
+ 
+TableSet	strh8903916_eg_gene	Solanum tuberosum RH89-039-16 genes (ASM1418947v1)	1	ASM1418947v1	200	50000	default	2026-05-14 10:53:38
+ 
+TableSet	vradiata_eg_gene	Vigna radiata genes (Vradiata_ver6)	1	Vradiata_ver6	200	50000	default	2026-05-14 11:04:13
+ 
+TableSet	osmh63_eg_gene	Oryza sativa (Xian/Indica-adm var. Minghui 63) genes (MH63RS2)	1	MH63RS2	200	50000	default	2026-05-14 10:50:23
+ 
+TableSet	csativus_eg_gene	Cucumis sativus genes (ASM407v2)	1	ASM407v2	200	50000	default	2026-05-14 10:38:42
+ 
+TableSet	hvhor14121_eg_gene	Hordeum vulgare HOR14121 genes (Hvulgare_HOR_14121_BPGv2)	1	Hvulgare_HOR_14121_BPGv2	200	50000	default	2026-05-14 10:43:16
+ 
+TableSet	hvft262_eg_gene	Hordeum vulgare FT262 genes (Hvulgare_FT262_BPGv2)	1	Hvulgare_FT262_BPGv2	200	50000	default	2026-05-14 10:41:34
+ 
+TableSet	macuminata_eg_gene	Musa acuminata genes (Musa_acuminata_v2)	1	Musa_acuminata_v2	200	50000	default	2026-05-14 10:47:38
+ 
+TableSet	hvwbdc348_eg_gene	Hordeum vulgare WBDC348 genes (Hvulgare_WBDC_348_BPGv2)	1	Hvulgare_WBDC_348_BPGv2	200	50000	default	2026-05-14 10:46:01
+ 
+TableSet	jregia_eg_gene	Juglans regia genes (Walnut_2.0)	1	Walnut_2.0	200	50000	default	2026-05-14 10:46:27
+ 
+TableSet	hvhor495_eg_gene	Hordeum vulgare HOR495 genes (Hvulgare_HOR_495_BPGv2)	1	Hvulgare_HOR_495_BPGv2	200	50000	default	2026-05-14 10:44:27
+ 
+TableSet	turartu_eg_gene	Triticum urartu genes (Tu2.0)	1	Tu2.0	200	50000	default	2026-05-14 11:03:59
+ 
+TableSet	hvaizu6_eg_gene	Hordeum vulgare Aizu6 genes (Hvulgare_cv_Aizu6_BPGv2)	1	Hvulgare_cv_Aizu6_BPGv2	200	50000	default	2026-05-14 10:41:00
+ 
+TableSet	hvhor2779_eg_gene	Hordeum vulgare HOR2779 genes (Hvulgare_HOR_2779_BPGv2)	1	Hvulgare_HOR_2779_BPGv2	200	50000	default	2026-05-14 10:44:02
+ 
+TableSet	tamace_eg_gene	Triticum aestivum Mace genes (PGSBv2.0_Mace)	1	PGSBv2.0_Mace	200	50000	default	2026-05-14 10:58:43
+ 
+TableSet	asgca951802345v1cm_eg_gene	Avena sativa Williams genes (Asativa_cv_Williams_v1.0)	1	Asativa_cv_Williams_v1.0	200	50000	default	2026-05-14 10:35:23
+ 
+TableSet	tajagger_eg_gene	Triticum aestivum Jagger genes (PGSBv2.0_Jagger)	1	PGSBv2.0_Jagger	200	50000	default	2026-05-14 10:56:21

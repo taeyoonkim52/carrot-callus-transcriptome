@@ -1,0 +1,47 @@
+[
+  {
+    "file": "carrot_xref.tsv",
+    "url": "https://plants.ensembl.org/biomart/martservice?query=%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3C%21DOCTYPE%20Query%3E%3CQuery%20virtualSchemaName%3D%22plants_mart%22%20formatter%3D%22TSV%22%20header%3D%220%22%20uniqueRows%3D%221%22%20count%3D%22%22%20datasetConfigVersion%3D%220.6%22%3E%3CDataset%20name%3D%22dcarota_eg_gene%22%20interface%3D%22default%22%3E%3CAttribute%20name%3D%22ensembl_gene_id%22/%3E%3CAttribute%20name%3D%22entrezgene_id%22/%3E%3C/Dataset%3E%3C/Query%3E",
+    "attributes": [
+      "ensembl_gene_id",
+      "entrezgene_id"
+    ],
+    "retrieved_utc": "2026-11-15T08:15:05Z",
+    "bytes": 1035012,
+    "sha256": "9b5ee4436beb7bb689708cf183cfc3449368857aafbf7e585cf6c910833095b5",
+    "lines": 53736
+  },
+  {
+    "file": "carrot_orthology.tsv",
+    "url": "https://plants.ensembl.org/biomart/martservice?query=%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3C%21DOCTYPE%20Query%3E%3CQuery%20virtualSchemaName%3D%22plants_mart%22%20formatter%3D%22TSV%22%20header%3D%220%22%20uniqueRows%3D%221%22%20count%3D%22%22%20datasetConfigVersion%3D%220.6%22%3E%3CDataset%20name%3D%22dcarota_eg_gene%22%20interface%3D%22default%22%3E%3CAttribute%20name%3D%22ensembl_gene_id%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_ensembl_gene%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_associated_gene_name%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_orthology_type%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_perc_id%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_perc_id_r1%22/%3E%3CAttribute%20name%3D%22athaliana_eg_homolog_orthology_confidence%22/%3E%3C/Dataset%3E%3C/Query%3E",
+    "attributes": [
+      "ensembl_gene_id",
+      "athaliana_eg_homolog_ensembl_gene",
+      "athaliana_eg_homolog_associated_gene_name",
+      "athaliana_eg_homolog_orthology_type",
+      "athaliana_eg_homolog_perc_id",
+      "athaliana_eg_homolog_perc_id_r1",
+      "athaliana_eg_homolog_orthology_confidence"
+    ],
+    "retrieved_utc": "2026-11-15T08:15:04Z",
+    "bytes": 2211648,
+    "sha256": "02a6a60d636b18de0f659c026fc75a334c5d77c314eb8a51d37138d08958338e",
+    "lines": 45552
+  },
+  {
+    "file": "arabidopsis_go.tsv",
+    "url": "https://plants.ensembl.org/biomart/martservice?query=%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3C%21DOCTYPE%20Query%3E%3CQuery%20virtualSchemaName%3D%22plants_mart%22%20formatter%3D%22TSV%22%20header%3D%220%22%20uniqueRows%3D%221%22%20count%3D%22%22%20datasetConfigVersion%3D%220.6%22%3E%3CDataset%20name%3D%22athaliana_eg_gene%22%20interface%3D%22default%22%3E%3CAttribute%20name%3D%22ensembl_gene_id%22/%3E%3CAttribute%20name%3D%22external_gene_name%22/%3E%3CAttribute%20name%3D%22go_id%22/%3E%3CAttribute%20name%3D%22name_1006%22/%3E%3CAttribute%20name%3D%22namespace_1003%22/%3E%3CAttribute%20name%3D%22go_linkage_type%22/%3E%3C/Dataset%3E%3C/Query%3E",
+    "attributes": [
+      "ensembl_gene_id",
+      "external_gene_name",
+      "go_id",
+      "name_1006",
+      "namespace_1003",
+      "go_linkage_type"
+    ],
+    "retrieved_utc": "2026-11-15T08:15:28Z",
+    "bytes": 19224677,
+    "sha256": "e474add320f0734ffa22984f1b4e9f50c20a1005dbf91efd01c59fa160e885d1",
+    "lines": 263579
+  }
+]

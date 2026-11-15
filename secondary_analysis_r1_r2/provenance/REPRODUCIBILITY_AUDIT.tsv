@@ -1,0 +1,21 @@
+result	material	classification	evidence_and_limitations
+Ws pseudoalignment summaries	secondary_analysis_r1_r2/mapping_qc/R1_MAPPING_BIAS_QC.tsv	REPRODUCIBLE	Retained full sample QC and grouping code; no raw remapping is claimed
+968 complete core annotation	secondary_analysis_r1_r2/core_annotation/R1_CORE_968_COMPLETE.tsv	REPRODUCIBLE	S7, RefSeq feature/GAF, mapped GO, code
+441 up / 527 down	secondary_analysis_r1_r2/core_annotation/R1_CORE_968_COMPLETE.tsv	REPRODUCIBLE	All fixed gene directions retained; count check passed
+Canonical regulator panel	secondary_analysis_r1_r2/canonical_regulators/R1_CANONICAL_REGULATOR_PANEL.tsv	REPRODUCIBLE	23-locus predeclaration, raw bridges, code, corrected DOI note
+6192 ortholog mappings	secondary_analysis_r1_r2/ortholog_mapping/R1_ORTHOLOG_MAPPING.tsv	REPRODUCIBLE	All raw BioMart resources pinned and mapping/status code
+6075 GO annotated mapped genes	secondary_analysis_r1_r2/ortholog_mapping/R1_ORTHOLOG_MAPPING.tsv	REPRODUCIBLE	Frozen ontology, ancestry/mapping code, all terms
+235/968 core GO coverage	secondary_analysis_r1_r2/core_annotation/R1_CORE_968_COMPLETE.tsv	REPRODUCIBLE	Complete fixed core plus mapped GO; checked235
+7.62-fold ribosome result	secondary_analysis_r1_r2/go_enrichment/R1_GO_ENRICHMENT_FULL.tsv	REPRODUCIBLE	CORE_DOWN GO:0005840; raw counts/background and all tests
+Ribosome FDR8.85e-13	secondary_analysis_r1_r2/go_enrichment/R1_GO_ENRICHMENT_FULL.tsv	REPRODUCIBLE	All11065 raw p values/global BH and code retained
+5.17-fold ubiquitin ligase	secondary_analysis_r1_r2/go_enrichment/R1_GO_ENRICHMENT_FULL.tsv	REPRODUCIBLE	CORE_UP GO:0000151; counts/background retained
+Ubiquitin ligase FDR0.01253	secondary_analysis_r1_r2/go_enrichment/R1_GO_ENRICHMENT_FULL.tsv	REPRODUCIBLE	All tests and correction code retained
+Expected Fisher shrinkage	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_FISHER_GENE_DETAILS.tsv	REPRODUCIBLE	Saved NB checkpoint, algorithm, pins, method addendum; no refit
+68.97 percent tau1	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_SENSITIVITY.tsv	REPRODUCIBLE	Retained summary and per gene outputs; rounding checked
+70.19 percent tau2	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_SENSITIVITY.tsv	REPRODUCIBLE	Retained summary and per gene outputs; rounding checked
+CPM support sensitivity	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_GENE_DETAILS.tsv	REPRODUCIBLE	Unicode CPM checkpoint, sample crosswalk and original S4
+59.12 percent CPM1	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_SENSITIVITY.tsv	REPRODUCIBLE	Summary and complete per gene details retained
+48.84 percent CPM5	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_SENSITIVITY.tsv	REPRODUCIBLE	Summary and complete per gene details retained
+58.03 percent corrected rounding	secondary_analysis_r1_r2/effect_size_sensitivity/R1_LFC_SENSITIVITY.tsv	REPRODUCIBLE	14486/24961*100; original S1-S9 bytes unchanged
+Gene108213928 numerical warning	secondary_analysis_r1_r2/numerical_qc/R1_LFC_NUMERICAL_WARNINGS.tsv	REPRODUCIBLE	Saved fitted information and diagnostic code; platform-sensitive condition magnitude; no refit
+Criteria provenance	secondary_analysis_r1_r2/criteria_provenance/R1_PREDEFINED_CRITERIA_PROVENANCE.tsv	AUDITABLE_ONLY	Original plan files, exact source commit/timestamps retained; original Git objects not all in public archive; pre-inspection fixation unresolved

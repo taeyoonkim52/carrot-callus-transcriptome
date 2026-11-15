@@ -1,0 +1,22 @@
+{
+  "conceptual_universe": 24961,
+  "bridge_status_counts": {
+    "UNMAPPED_NO_EXPLICIT_NCBI_XREF": 15089,
+    "USABLE_HIGH_CONFIDENCE": 6192,
+    "NO_HIGH_CONFIDENCE_ORTHOLOG": 3421,
+    "AMBIGUOUS_CROSS_VERSION_BRIDGE": 259
+  },
+  "high_confidence_mapped": 6192,
+  "GO_background": 6075,
+  "tested_terms_per_set": 2213,
+  "tests_total": 11065,
+  "core_mapped": 246,
+  "core_GO_annotated": 235,
+  "significant_counts": {
+    "CORE_ALL": 16,
+    "CORE_DOWN": 28,
+    "CORE_UP": 4,
+    "LARGE_INTERACTION": 93,
+    "PRACTICAL_INTERACTION": 47
+  }
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this reproducibility archive and the original dataset when using these materials."
+type: software
+version: v1.0.0
+doi: 10.5281/zenodo.23180748
+repository-code: "https://github.com/taeyoonkim52/carrot-callus-transcriptome"
+title: "Carrot early callus transcriptome reproducibility code and derived data"
+authors:
+  - family-names: Kim
+    given-names: Tae-Yoon
+    email: kimtaey@oregonstate.edu
+  - family-names: Woo
+    given-names: Heesung
+abstract: "Code, metadata and derived data for genotype-dependent early carrot callus-induction transcriptional response analysis. Manuscript under preparation."
+keywords:
+  - Daucus carota
+  - callus induction
+  - RNA sequencing

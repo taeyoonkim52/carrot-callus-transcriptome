@@ -1,0 +1,19 @@
+{
+  "retrieval_date": "2026-11-15",
+  "Ensembl": "Plants release 63 / June 2026 archive; BioMart dataset metadata date 2026-05-14",
+  "carrot_assembly": "ASM162521v1 / GCA_001625215.1",
+  "target_assembly": "Arabidopsis TAIR10",
+  "project_reference": "DH1 v3.0 / GCF_001625215.2; NCBI RS_2024_03",
+  "ontology_URL": "https://raw.githubusercontent.com/geneontology/go-ontology/master/src/ontology/go-edit.obo",
+  "ontology_commit": "c51c9f04cba54e3a0eb73fee1b9b178c5f7ae04d",
+  "ontology_commit_date": "2026-11-12T22:18:31Z",
+  "ontology_SHA256": "816bfcc52711cc4bb156e1d77932ab70689dcd7b4b0d425480d4734ce355e96d",
+  "ontology_version_note": "Downloaded master snapshot; content SHA256 is the primary pin; latest file-changing commit is recorded separately.",
+  "annotation_qualifier_limitation": "BioMart exposes GO evidence but not NOT qualifiers or annotation dates. The transferred layer is not claimed to be a fully qualifier-audited contemporary TAIR GAF.",
+  "one_to_many": "Union high-confidence Arabidopsis assignments per uniquely bridged carrot gene; count carrot gene once per term",
+  "excluded": "Ambiguous NCBI/Ensembl bridge, confidence!=1, obsolete/unknown GO; three GO roots",
+  "GO_propagation": "is_a and part_of ancestors only",
+  "term_bounds": "5 to 5000 background genes fixed before enrichment",
+  "multiplicity": "global BH over all 11065 set-term tests; one-sided hypergeometric",
+  "KEGG": "Not performed: no independently validated mapping layer; not needed to complete this gate"
+}

@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "scipy": "1.18.1",
+  "secondary_dependencies": "Install pinned packages into an independent environment; no packages bundled.",
+  "run_order": [
+    "acquire_r1.py",
+    "analyze_r1.py",
+    "fisher_sensitivity_r1.py",
+    "validate_references_r1.py",
+    "finalize_r1.py"
+  ]
+}

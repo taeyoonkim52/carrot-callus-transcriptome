@@ -1,0 +1,10 @@
+{
+  "classification": "PARTIALLY_ROBUST",
+  "extreme_above10": 217,
+  "original_max": 32.81851580256183,
+  "numerical_warning_genes": 2,
+  "numerical_warning_significant": 1,
+  "numerical_warning_core": 0,
+  "condition_threshold": 1000000000000.0,
+  "minimum_cell_information_threshold": 1e-06
+}
