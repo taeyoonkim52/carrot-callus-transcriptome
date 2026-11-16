@@ -1,0 +1,95 @@
+[
+  {
+    "step": "version",
+    "command": [
+      "blastp.exe",
+      "-version"
+    ],
+    "seconds": 0.38667941093444824,
+    "returncode": 0
+  },
+  {
+    "step": "DH1_makeblastdb",
+    "command": [
+      "makeblastdb.exe",
+      "-in",
+      "DH1.faa",
+      "-dbtype",
+      "prot",
+      "-out",
+      "DH1"
+    ],
+    "seconds": 1.168907642364502,
+    "returncode": 0
+  },
+  {
+    "step": "TAIR_makeblastdb",
+    "command": [
+      "makeblastdb.exe",
+      "-in",
+      "TAIR.faa",
+      "-dbtype",
+      "prot",
+      "-out",
+      "TAIR"
+    ],
+    "seconds": 1.0561399459838867,
+    "returncode": 0
+  },
+  {
+    "step": "DH1_vs_TAIR",
+    "command": [
+      "blastp.exe",
+      "-query",
+      "DH1.faa",
+      "-db",
+      "TAIR",
+      "-out",
+      "DH1_vs_TAIR.tsv",
+      "-evalue",
+      "1e-10",
+      "-seg",
+      "yes",
+      "-soft_masking",
+      "true",
+      "-max_hsps",
+      "1",
+      "-max_target_seqs",
+      "10",
+      "-num_threads",
+      "6",
+      "-outfmt",
+      "6 qseqid sseqid pident length qstart qend sstart send qlen slen evalue bitscore"
+    ],
+    "seconds": 1929.1016445159912,
+    "returncode": 0
+  },
+  {
+    "step": "TAIR_vs_DH1",
+    "command": [
+      "blastp.exe",
+      "-query",
+      "TAIR.faa",
+      "-db",
+      "DH1",
+      "-out",
+      "TAIR_vs_DH1.tsv",
+      "-evalue",
+      "1e-10",
+      "-seg",
+      "yes",
+      "-soft_masking",
+      "true",
+      "-max_hsps",
+      "1",
+      "-max_target_seqs",
+      "10",
+      "-num_threads",
+      "6",
+      "-outfmt",
+      "6 qseqid sseqid pident length qstart qend sstart send qlen slen evalue bitscore"
+    ],
+    "seconds": 1898.66624045372,
+    "returncode": 0
+  }
+]

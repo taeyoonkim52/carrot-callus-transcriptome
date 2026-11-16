@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "pydeseq2": "0.5.4"
+  },
+  "PyDESeq2_source_SHA256": {
+    "pydeseq2.ds": "4e3b229f3b16bba04f2d8f4ef0f675a751311a46b78706d7fc51e9135f20eb72",
+    "pydeseq2.utils": "90491819baca8d0329a27f559a107277577d16cc6ae2aae0a8a33739755cde88"
+  },
+  "BLAST_version": "2.17.0+",
+  "global_installation_changed": false
+}

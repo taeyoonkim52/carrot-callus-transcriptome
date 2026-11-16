@@ -1,0 +1,14 @@
+{
+  "DH1": {
+    "protein_coding_genes": 33079,
+    "unique_longest_proteins": 32525,
+    "identical_sequence_gene_groups": 434,
+    "identical_sequence_genes": 988
+  },
+  "TAIR": {
+    "protein_coding_genes": 27562,
+    "unique_longest_proteins": 27401,
+    "identical_sequence_gene_groups": 100,
+    "identical_sequence_genes": 261
+  }
+}

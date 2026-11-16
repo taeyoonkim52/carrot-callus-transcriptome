@@ -1,10 +1,9 @@
 {
-  "version": "v1.1.0",
-  "status": "RELEASE_PAYLOAD",
-  "base_commit": "7822f3e41b50fc0a59903b139a6bdbf56cfff4bc",
-  "primary_archive_commit": "98cf5a3551a007b82ee1ed42a47c526c5568f70d",
+  "version": "v1.2.0",
+  "scope": "Final additional annotation and conditional coefficient sensitivity; primary unchanged",
   "concept_DOI": "10.5281/zenodo.23180747",
-  "historical_version_DOI": "10.5281/zenodo.23180748",
-  "description": "Adds expert-review secondary sensitivity, functional-annotation, mapping-QC and provenance analyses supporting the revised manuscript. The original primary analysis is unchanged.",
-  "publication_tracking": "Actual release commit and new Zenodo version DOI are recorded in the GitHub release and R3B release report after publication."
+  "version_DOI": "See published v1.2.0 release after Zenodo archival assignment",
+  "primary_FDR_changed": false,
+  "primary_gene_sets_changed": false,
+  "new_biological_experiment": false
 }

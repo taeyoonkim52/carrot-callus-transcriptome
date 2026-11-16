@@ -1,0 +1,63 @@
+[
+  {
+    "file": "blast.tar.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.17.0/ncbi-blast-2.17.0+-x64-win64.tar.gz",
+    "bytes": 143400333,
+    "SHA256": "ccde8788641e8f4137536aaadedfeac2f3599dbbc6166e701b5d89d19fa79038",
+    "MD5": "dcd973097407a2910061ff4fb51b09fb",
+    "provider_MD5_verified": true
+  },
+  {
+    "file": "blast.md5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.17.0/ncbi-blast-2.17.0+-x64-win64.tar.gz.md5",
+    "bytes": 70,
+    "SHA256": "f4cacdf0bf47c37ed9ac83efac4a6d541a81047d418c554db92e86670e5130e0",
+    "MD5": "eed90687bebe9f319c2c360b254227f1"
+  },
+  {
+    "file": "DH1_protein.faa.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/625/215/GCF_001625215.2_DH1_v3.0/GCF_001625215.2_DH1_v3.0_protein.faa.gz",
+    "bytes": 11392610,
+    "SHA256": "be5305e6922fa956474c1de03ec5a9912fb47ed7f2e59d740faf294969799c0e",
+    "MD5": "b9348bc240d165dfe0dbe1e7b4670797",
+    "provider_MD5_verified": true
+  },
+  {
+    "file": "DH1_feature_table.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/625/215/GCF_001625215.2_DH1_v3.0/GCF_001625215.2_DH1_v3.0_feature_table.txt.gz",
+    "bytes": 3460233,
+    "SHA256": "81f9a0d7d9b5ba0f73e231392d678dc056593bb6698d1230336bbea387946fc1",
+    "MD5": "6465c706b3967c06bfc606c127ac3fe6",
+    "provider_MD5_verified": true
+  },
+  {
+    "file": "DH1_md5checksums.txt",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/625/215/GCF_001625215.2_DH1_v3.0/md5checksums.txt",
+    "bytes": 33513,
+    "SHA256": "0a2ca537ac571d5648e230681d78c7638c75da26a5cad309b2ef600fa8646be9",
+    "MD5": "27a94d74a4331211f86e39cf0703cc18"
+  },
+  {
+    "file": "TAIR_protein.faa.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.4_TAIR10.1/GCF_000001735.4_TAIR10.1_protein.faa.gz",
+    "bytes": 11864985,
+    "SHA256": "33bbaace22bf13def4ac28591d4d4954f981a65b567425da47b4f59284ed79ff",
+    "MD5": "425cdca15f4c1e83237fd5c51313314c",
+    "provider_MD5_verified": true
+  },
+  {
+    "file": "TAIR_feature_table.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.4_TAIR10.1/GCF_000001735.4_TAIR10.1_feature_table.txt.gz",
+    "bytes": 3215543,
+    "SHA256": "77362452c26e6214e51227f2806d6e181d97f50b11e0534e9e59f8ddd4eba4b3",
+    "MD5": "06264e372c3fe728964fa07f592f1057",
+    "provider_MD5_verified": true
+  },
+  {
+    "file": "TAIR_md5checksums.txt",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.4_TAIR10.1/md5checksums.txt",
+    "bytes": 3569,
+    "SHA256": "7af4b0603a5f11d84bc0b8d889a4868072e6abaab2bae6b302700cbddabae9ef",
+    "MD5": "ae9093e96d09a6fe21c79d6651c60c64"
+  }
+]

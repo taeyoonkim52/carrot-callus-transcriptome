@@ -1,0 +1,40 @@
+{
+  "scope": "Reporting metadata only; no numerical coefficient, count, bin, inference or primary result changed.",
+  "source_summary_SHA256": "6d9495246602e0643d26266f514676136091fde0fb105c59b91138f472c97fdd",
+  "affected_field": "nonzero_optimizer_failures",
+  "source_values": {
+    "C815": 15044,
+    "C819": 15033,
+    "C824": 15021,
+    "Ws": 15042
+  },
+  "verified_status_counts": {
+    "C815": {
+      "nonzero_blocks": 15044,
+      "converged_nonzero_blocks": 15044,
+      "failed_nonzero_blocks": 0,
+      "all_zero_blocks": 9
+    },
+    "C819": {
+      "nonzero_blocks": 15033,
+      "converged_nonzero_blocks": 15033,
+      "failed_nonzero_blocks": 0,
+      "all_zero_blocks": 20
+    },
+    "C824": {
+      "nonzero_blocks": 15021,
+      "converged_nonzero_blocks": 15021,
+      "failed_nonzero_blocks": 0,
+      "all_zero_blocks": 32
+    },
+    "Ws": {
+      "nonzero_blocks": 15042,
+      "converged_nonzero_blocks": 15042,
+      "failed_nonzero_blocks": 0,
+      "all_zero_blocks": 11
+    }
+  },
+  "cause": "report_standard_shrinkage.py applied bitwise inversion to an object-typed converged column after fillna. The reported field counted nonzero blocks rather than failed nonzero blocks. Explicit True/False string parsing gives zero failures in all four genotypes.",
+  "source_preserved": true,
+  "instruction": "Read this erratum with the unchanged source summary. All-zero blocks account for the 67 excluded genes; the 14,986 evaluable genes and all scientific statistics are unchanged. Future archive reporting code must parse booleans explicitly."
+}

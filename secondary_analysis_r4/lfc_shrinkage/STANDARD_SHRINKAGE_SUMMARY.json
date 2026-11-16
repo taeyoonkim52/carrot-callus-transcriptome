@@ -1,0 +1,56 @@
+{
+  "method": "PyDESeq2 0.5.4 DeseqStats.lfc_shrink; adapt=False; Cauchy scale 1 natural-log units; nuisance scale 15",
+  "classification": "PARTIALLY_VALID",
+  "original_fixed_interaction_genes": 15053,
+  "retained_all_four_converged": 14986,
+  "invalid_or_nonconverged": 67,
+  "SMALL": 601,
+  "MODERATE": 3970,
+  "LARGE": 10415,
+  "LARGE_percent": 69.49819831843054,
+  "range_quantiles": {
+    "min": 0.2378251472806186,
+    "Q25": 0.8849167742796136,
+    "median": 1.5832189210525938,
+    "Q75": 3.0564611362497374,
+    "P90": 5.038000165008576,
+    "P95": 6.553633107249916,
+    "P99": 10.437502799140715,
+    "max": 18.36689974451713
+  },
+  "original_vs_shrunk_range_Pearson": 0.9900364093077525,
+  "genotype_effect_correlations": {
+    "C815": 0.9943749702840685,
+    "C819": 0.9907687039268807,
+    "C824": 0.9931763455057071,
+    "Ws": 0.9922345945187107
+  },
+  "primary_p_FDR_changed": false,
+  "core_membership_changed": false,
+  "conditional_likelihood_equivalence": "saturated 8-cell NB likelihood factors into four independent two-endpoint genotype blocks with fixed primary size factors/dispersions",
+  "limitation": "Four marginal MAP effects yield a descriptive range, not a joint posterior for range; fixed prior is not adaptive apeglm in R.",
+  "all_zero_within_genotype_counts": {
+    "C815": 9,
+    "C819": 20,
+    "C824": 32,
+    "Ws": 11
+  },
+  "nonzero_optimizer_failures": {
+    "C815": 15044,
+    "C819": 15033,
+    "C824": 15021,
+    "Ws": 15042
+  },
+  "excluded_original_bins": {
+    "SMALL": 0,
+    "MODERATE": 0,
+    "LARGE": 67
+  },
+  "original_on_same_retained_genes": {
+    "SMALL": 567,
+    "MODERATE": 3877,
+    "LARGE": 10542,
+    "LARGE_percent": 70.34565594554918
+  },
+  "warning_108213928_retained": false
+}

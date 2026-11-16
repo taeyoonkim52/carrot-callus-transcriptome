@@ -7,3 +7,7 @@ Raw RNA-seq data are not redistributed in this repository. The original sequenci
 Derived analysis outputs are provided for scientific reproducibility. Their inclusion does not assert ownership of the source sequencing data or relicense it under MIT.
 
 Third-party reference genome, annotation, ontology, software and other external resources remain subject to their original terms/licenses. These resources are retrieved separately; their provenance and checksums are documented in provenance/.
+
+## Final additional analyses
+
+Original analysis code and portability/reporting helpers remain within the original-code MIT scope. Author-generated derived tables and documentation are provided for scientific reproducibility; no additional blanket data/documentation license is asserted without rights-holder confirmation. These materials must not be assumed to relicense the underlying sequencing data, reference sequences or ontology annotations. Third-party terms continue unchanged. Software/archive creators remain distinct from manuscript authorship.
