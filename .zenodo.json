@@ -1,0 +1,37 @@
+{
+  "title": "Carrot early callus transcriptome reproducibility code and derived data",
+  "upload_type": "software",
+  "version": "v1.2.0",
+  "creators": [
+    {
+      "name": "Kim, Tae-Yoon"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kim, Taejin",
+      "type": "Other"
+    },
+    {
+      "name": "Lee, Seung-Yop",
+      "type": "Supervisor"
+    }
+  ],
+  "description": "Retains the original primary analysis and adds final augmented homology-supported annotation and fixed-prior PyDESeq2 coefficient sensitivity with complete source provenance. No new biological experiment, primary FDR or gene-set reselection.",
+  "notes": "The manuscript authors, in order, are Tae-Yoon Kim, Taejin Kim and Seung-Yop Lee; Seung-Yop Lee is the corresponding author. Manuscript authorship is distinct from archived-resource attribution. Tae-Yoon Kim is the creator of the archived analysis resource. Taejin Kim contributed Methodology (DataCite Other). Seung-Yop Lee contributed Conceptualization, Writing – review & editing, and Supervision (DataCite Supervisor). The final scientific release remains v1.2.0, commit 22d89ea1c7fdcc878e51549ac76c6a3342c3d3a6, archived at https://doi.org/10.5281/zenodo.24293704 under concept DOI 10.5281/zenodo.23180747. This is a current metadata attribution correction; frozen release files and historical versions remain unchanged. MIT applies only to original project software/code under LICENSE_SCOPE.md. Third-party terms remain unchanged; no blanket derived-data/documentation license is asserted.",
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "Daucus carota",
+    "callus induction",
+    "RNA sequencing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/taeyoonkim52/carrot-callus-transcriptome/tree/v1.2.0",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ This release retains the original 24-library Day0/Day20 analysis and adds final 
 - v1.1.0: earlier sensitivity, annotation and QC additions in secondary_analysis_r1_r2/; commit de216d9ef5b53316b9f2fbfc76037ad823ddea3b; DOI https://doi.org/10.5281/zenodo.24259913.
 - v1.2.0: final complementary annotation and standard fixed-prior coefficient sensitivity in secondary_analysis_r4/. See that directory for scope, complete outputs, commands, limitations and copy-only integrity audit.
 
-Concept DOI remains https://doi.org/10.5281/zenodo.23180747. The actual new version DOI will be recorded on the published GitHub release after Zenodo assigns it; no DOI is guessed or embedded as a self-referential release commit.
+The final v1.2.0 scientific archive is available at https://doi.org/10.5281/zenodo.24293704. Concept DOI https://doi.org/10.5281/zenodo.23180747 links archive versions. The frozen v1.2.0 tag and archived file snapshot are unchanged by current main-branch metadata corrections.
 
 Primary results/, metadata/, figures/source_data/, original scripts/ and environment/ remain unchanged. The fixed universe is 24,961 genes, with 15,053 interactions and a 968-gene core (800 internally stable). New annotation has usable GO for 9,508 universe genes and 380 core genes. New coefficient sensitivity has 14,986 evaluable interactions, 67 all-zero exclusions and 69.4982% LARGE. A clearly identified reporting-field erratum preserves historic source bytes and does not alter scientific values.
 
@@ -14,4 +14,10 @@ Raw FASTQ/SRA files are not redistributed. Original data: Wang et al., BioProjec
 
 ## Citation and roles
 
-CITATION.cff describes software/archive creators Tae-Yoon Kim and Heesung Woo. Manuscript authors are Tae-Yoon Kim, Seung-Yop Lee and Heesung Woo. Seung-Yop Lee is already a Researcher contributor in Zenodo; confirmed manuscript roles are Conceptualization and Writing – review & editing. No software-production role or automatic creator promotion is inferred. See LICENSE_SCOPE.md for code-only MIT and third-party/data/documentation scope.
+Manuscript authors, in order: Tae-Yoon Kim, Taejin Kim and Seung-Yop Lee. Seung-Yop Lee is the corresponding author (sylee@sogang.ac.kr).
+
+The archive/software creator is Tae-Yoon Kim. CITATION.cff cites this analysis resource rather than automatically treating every manuscript author as a software author. Archive contributors, in order, are Taejin Kim (Methodology; DataCite Other) and Seung-Yop Lee (Conceptualization, Writing – review & editing, Supervision; DataCite Supervisor). The controlled DataCite roles are recorded in .zenodo.json, with the full contribution basis in its notes.
+
+Tae-Yoon Kim's confirmed manuscript contributions are Conceptualization, Formal analysis, Validation, Biological interpretation, Writing – review & editing, and Supervision. These manuscript roles are distinct from the archive creator designation; no superseded manuscript roles are restored.
+
+Historical citation/provenance files and frozen releases retain the metadata recorded at release time; current metadata does not rewrite those snapshots. Adding .zenodo.json on main does not by itself change an existing Zenodo record. See LICENSE_SCOPE.md for code-only MIT and third-party/data/documentation scope.
